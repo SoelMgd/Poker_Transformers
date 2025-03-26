@@ -1,0 +1,108 @@
+{
+    "date": "2016/9/18 9:7:38",
+    "game_id": "730245783",
+    "variant": "PRR",
+    "table_name": "Karkadann-3",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "BlitzWaut",
+        "VegetablesArentYummy",
+        "Pablo46",
+        "Pimpika",
+        "gosu36484",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        5,
+        6,
+        9
+    ],
+    "starting_stacks": [
+        169.69,
+        104.58,
+        100.0,
+        72.94,
+        42.53,
+        40.0
+    ],
+    "player_small_blind": "VegetablesArentYummy",
+    "small_blind": 0.5,
+    "player_big_blind": "Pablo46",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4s",
+        "Ad"
+    ],
+    "dealed_cards": {
+        "flop": [],
+        "turn": [],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Pimpika",
+                "gosu36484",
+                "IlxxxlI",
+                "BlitzWaut",
+                "VegetablesArentYummy",
+                "Pablo46",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                2.0,
+                null,
+                null,
+                4.0,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        169.69,
+        104.08,
+        102.5,
+        72.94,
+        42.53,
+        38.0
+    ]
+}

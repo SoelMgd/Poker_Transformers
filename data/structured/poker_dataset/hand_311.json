@@ -1,0 +1,113 @@
+{
+    "date": "2016/9/5 1:9:9",
+    "game_id": "719777777",
+    "variant": "PRR",
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 6,
+    "players": [
+        "IlxxxlI",
+        "Randall5",
+        "VegetablesArentYummy",
+        "Pureprofit4"
+    ],
+    "players_seats": [
+        2,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        164.08,
+        160.0,
+        245.52,
+        240.9
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 2.0,
+    "player_big_blind": "VegetablesArentYummy",
+    "big_blind": 4.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ks",
+        "5c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qd",
+            "8s",
+            "4h"
+        ],
+        "turn": [
+            "8h"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Pureprofit4",
+                "IlxxxlI",
+                "VegetablesArentYummy"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                8.0,
+                null,
+                4.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "VegetablesArentYummy",
+                "Pureprofit4"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "VegetablesArentYummy",
+                "Pureprofit4",
+                "VegetablesArentYummy"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                8.92,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        162.08,
+        160.0,
+        237.52,
+        250.75
+    ]
+}

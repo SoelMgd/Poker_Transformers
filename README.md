@@ -18,11 +18,11 @@ We provide all the necessary scripts and notebooks to train, fine-tune, and test
 - **`models.py`**: Defines the PyTorch-based transformer model used for training.
 - **`tokenizer_data.py`**: Implements a tokenizer suited for poker-specific language and data processing.
 - **`trainer.py`**: Script for training the model, including training loops, evaluation metrics, and data handling.
+- **`data_processing/`**: Contains scripts for processing the poker dataset and converting it to a format suitable for training.
 
 ### Data (`data/`)
 For pytorch training.
-A folder where poker datasets must be downloaded for training and evaluation. The data should be obtained in JSON format from:
-- [Poker Dataset](https://github.com/JulienDelavande/MistralBluff/tree/main/data/train/poker_dataset)
+The `raw/` folder contains the raw poker dataset in log format, the `structured/` folder contains the formatted dataset in json structed format and the `train/` folder contains the dataset in json format for training.
 
 ## Pre-Trained Models & Dataset
 For testing our models or fine-tuning.

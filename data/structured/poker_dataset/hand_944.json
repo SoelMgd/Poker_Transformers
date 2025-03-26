@@ -1,0 +1,176 @@
+{
+    "date": "2016/9/6 1:0:38",
+    "game_id": "720659048",
+    "variant": "PRR",
+    "table_name": "Monopod",
+    "type_game": "Cap",
+    "button_seat": 8,
+    "players": [
+        "BigLou1212",
+        "BIGRAISE",
+        "JikkiP",
+        "HookahBOSS",
+        "Maria26years",
+        "gfclbv",
+        "Leatherass9",
+        "IlxxxlI",
+        "bocha12"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "starting_stacks": [
+        222.13,
+        253.35,
+        116.6,
+        433.65,
+        339.41,
+        605.95,
+        400.0,
+        160.0,
+        403.8
+    ],
+    "player_small_blind": "bocha12",
+    "small_blind": 2.0,
+    "player_big_blind": "BigLou1212",
+    "big_blind": 4.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4d",
+        "10c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Jd",
+            "Qd",
+            "Ad"
+        ],
+        "turn": [
+            "2d"
+        ],
+        "river": [
+            "7d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "BIGRAISE",
+                "JikkiP",
+                "HookahBOSS",
+                "Maria26years",
+                "gfclbv",
+                "Leatherass9",
+                "IlxxxlI",
+                "bocha12",
+                "BigLou1212"
+            ],
+            "actions": [
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                4.0,
+                null,
+                null,
+                null,
+                null,
+                null,
+                2.0,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "bocha12",
+                "BigLou1212",
+                "JikkiP",
+                "bocha12",
+                "BigLou1212"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                12.0,
+                null,
+                12.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "BigLou1212",
+                "JikkiP",
+                "BigLou1212"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                23.76,
+                23.76
+            ]
+        },
+        "post-river": {
+            "players": [
+                "BigLou1212",
+                "JikkiP"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "2h As",
+        null,
+        "5s 7s",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        223.73000000000002,
+        253.35,
+        118.2,
+        433.65,
+        339.41,
+        605.95,
+        400.0,
+        160.0,
+        399.8
+    ]
+}

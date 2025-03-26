@@ -1,0 +1,102 @@
+{
+    "date": "2016/9/15 12:8:33",
+    "game_id": "728107884",
+    "variant": "PRR",
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 6,
+    "players": [
+        "TuxoH",
+        "allinoh",
+        "NoCortosPermite",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        206.35,
+        71.85,
+        344.04,
+        146.4
+    ],
+    "player_small_blind": "TuxoH",
+    "small_blind": 2.0,
+    "player_big_blind": "allinoh",
+    "big_blind": 4.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9s",
+        "3c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6c",
+            "Qc",
+            "5h"
+        ],
+        "turn": [],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "NoCortosPermite",
+                "IlxxxlI",
+                "TuxoH",
+                "allinoh"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                2.0,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "TuxoH",
+                "allinoh"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                4.0,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        210.29999999999998,
+        67.85,
+        344.04,
+        146.4
+    ]
+}

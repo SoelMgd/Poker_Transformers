@@ -1,0 +1,105 @@
+{
+    "date": "2016/9/5 11:45:13",
+    "game_id": "720252482",
+    "variant": "PRR",
+    "table_name": "Pegasus",
+    "type_game": "Short",
+    "button_seat": 6,
+    "players": [
+        "GranatoBetano",
+        "SheppyPOO!!",
+        "IlxxxlI",
+        "graphicup",
+        "Jimisdumb",
+        "follower1"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        287.4,
+        300.0,
+        153.35,
+        255.35,
+        154.32,
+        393.98
+    ],
+    "player_small_blind": "GranatoBetano",
+    "small_blind": 3.0,
+    "player_big_blind": "SheppyPOO!!",
+    "big_blind": 6.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Qh",
+        "2d"
+    ],
+    "dealed_cards": {
+        "flop": [],
+        "turn": [],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "graphicup",
+                "Jimisdumb",
+                "follower1",
+                "GranatoBetano",
+                "SheppyPOO!!"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                12.0,
+                null,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        284.4,
+        294.0,
+        153.35,
+        255.35,
+        163.32,
+        393.98
+    ]
+}

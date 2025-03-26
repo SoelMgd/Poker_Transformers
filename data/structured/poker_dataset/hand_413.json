@@ -1,0 +1,129 @@
+{
+    "date": "2016/9/5 12:4:21",
+    "game_id": "720258788",
+    "variant": "PRR",
+    "table_name": "Pegasus",
+    "type_game": "Short",
+    "button_seat": 5,
+    "players": [
+        "GranatoBetano",
+        "St3p04ka",
+        "IlxxxlI",
+        "bigrpk22",
+        "Jimisdumb",
+        "follower1"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        300.0,
+        178.4,
+        120.0,
+        268.05,
+        364.47,
+        439.3
+    ],
+    "player_small_blind": "follower1",
+    "small_blind": 3.0,
+    "player_big_blind": "GranatoBetano",
+    "big_blind": 6.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "3d",
+        "8s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qd",
+            "Ah",
+            "9d"
+        ],
+        "turn": [
+            "6s"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "St3p04ka",
+                "IlxxxlI",
+                "bigrpk22",
+                "Jimisdumb",
+                "follower1",
+                "GranatoBetano"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                15.0,
+                12.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "follower1",
+                "GranatoBetano"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                17.82,
+                17.82
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "follower1",
+                "GranatoBetano"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                54.0,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        264.18,
+        178.4,
+        120.0,
+        268.05,
+        364.47,
+        474.42
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "date": "2016/9/5 12:7:48",
+    "game_id": "720259790",
+    "variant": "PRR",
+    "table_name": "Pegasus",
+    "type_game": "Short",
+    "button_seat": 3,
+    "players": [
+        "GranatoBetano",
+        "St3p04ka",
+        "IlxxxlI",
+        "follower1"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        6
+    ],
+    "starting_stacks": [
+        285.18,
+        178.4,
+        120.0,
+        492.07
+    ],
+    "player_small_blind": "follower1",
+    "small_blind": 3.0,
+    "player_big_blind": "GranatoBetano",
+    "big_blind": 6.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8s",
+        "Qd"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "3s",
+            "As",
+            "5d"
+        ],
+        "turn": [
+            "6s"
+        ],
+        "river": [
+            "4c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "St3p04ka",
+                "IlxxxlI",
+                "follower1",
+                "GranatoBetano"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                15.0,
+                12.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "follower1",
+                "GranatoBetano"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                11.88,
+                11.88
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "follower1",
+                "GranatoBetano",
+                "follower1"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                39.47,
+                39.47
+            ]
+        },
+        "post-river": {
+            "players": [
+                "follower1",
+                "GranatoBetano",
+                "follower1"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                155.0,
+                155.0
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "8h Qs",
+        null,
+        null,
+        "Ac 7c"
+    ],
+    "finishing_stack": [
+        60.83000000000001,
+        178.4,
+        120.0,
+        714.4200000000001
+    ]
+}

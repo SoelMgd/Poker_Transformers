@@ -1,0 +1,154 @@
+{
+    "date": "2016/9/18 9:41:47",
+    "game_id": "730262719",
+    "variant": "PRR",
+    "table_name": "Longana",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "Lewass99",
+        "IlxxxlI",
+        "Pimpika",
+        "VegetablesArentYummy",
+        "cracypoker",
+        "kalabanaspirit",
+        "sr86"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+    ],
+    "starting_stacks": [
+        200.32,
+        80.0,
+        455.0,
+        298.83,
+        206.35,
+        236.76,
+        200.0
+    ],
+    "player_small_blind": "cracypoker",
+    "small_blind": 1.0,
+    "player_big_blind": "kalabanaspirit",
+    "big_blind": 2.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "3c",
+        "Jh"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9h",
+            "5s",
+            "7c"
+        ],
+        "turn": [
+            "Qc"
+        ],
+        "river": [
+            "Kd"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "sr86",
+                "Lewass99",
+                "IlxxxlI",
+                "Pimpika",
+                "VegetablesArentYummy",
+                "cracypoker",
+                "kalabanaspirit"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                5.0,
+                null,
+                4.0,
+                3.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "cracypoker",
+                "kalabanaspirit",
+                "Pimpika"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "cracypoker",
+                "kalabanaspirit",
+                "Pimpika"
+            ],
+            "actions": [
+                "BET",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                8.0,
+                8.0,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "cracypoker",
+                "kalabanaspirit"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                18.0,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        200.32,
+        80.0,
+        450.0,
+        298.83,
+        222.79999999999998,
+        223.76,
+        200.0
+    ]
+}

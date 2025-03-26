@@ -1,0 +1,113 @@
+{
+    "date": "2016/9/17 11:11:46",
+    "game_id": "729552665",
+    "variant": "PRR",
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 3,
+    "players": [
+        "flyzlcomb07",
+        "RCSOX",
+        "IlxxxlI",
+        "SheppyPOO!!",
+        "Pureprofit4"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        335.38,
+        144.97,
+        126.1,
+        224.7,
+        279.81
+    ],
+    "player_small_blind": "SheppyPOO!!",
+    "small_blind": 2.0,
+    "player_big_blind": "Pureprofit4",
+    "big_blind": 4.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ad",
+        "3h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Jd",
+            "Js",
+            "8d"
+        ],
+        "turn": [],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "flyzlcomb07",
+                "RCSOX",
+                "IlxxxlI",
+                "SheppyPOO!!",
+                "Pureprofit4"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                4.0,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Pureprofit4",
+                "IlxxxlI",
+                "Pureprofit4"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                4.0,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        335.38,
+        144.97,
+        132.0,
+        222.7,
+        275.81
+    ]
+}

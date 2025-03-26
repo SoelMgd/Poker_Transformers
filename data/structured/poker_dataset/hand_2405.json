@@ -1,0 +1,94 @@
+{
+    "date": "2016/9/18 9:55:33",
+    "game_id": "730269236",
+    "variant": "PRR",
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 5,
+    "players": [
+        "Bazuko",
+        "VegetablesArentYummy",
+        "Pureprofit4",
+        "hangiie",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        140.54,
+        319.28,
+        329.24,
+        179.8,
+        163.45
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 2.0,
+    "player_big_blind": "Bazuko",
+    "big_blind": 4.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5d",
+        "3c"
+    ],
+    "dealed_cards": {
+        "flop": [],
+        "turn": [],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "VegetablesArentYummy",
+                "Pureprofit4",
+                "hangiie",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        142.54,
+        319.28,
+        329.24,
+        179.8,
+        161.45
+    ]
+}

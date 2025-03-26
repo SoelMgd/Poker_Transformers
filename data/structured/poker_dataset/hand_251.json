@@ -1,0 +1,145 @@
+{
+    "date": "2016/9/4 10:17:22",
+    "game_id": "719291297",
+    "variant": "PRR",
+    "table_name": "Monopod",
+    "type_game": "Short",
+    "button_seat": 1,
+    "players": [
+        "ConstanceHarm",
+        "SheppyPOO!!",
+        "Silverchicken",
+        "BiGFck",
+        "Einstein727",
+        "IlxxxlI",
+        "VegetablesArentYummy",
+        "bet2000"
+    ],
+    "players_seats": [
+        1,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "starting_stacks": [
+        200.0,
+        361.53,
+        260.07,
+        70.65,
+        200.0,
+        100.8,
+        200.0,
+        474.67
+    ],
+    "player_small_blind": "SheppyPOO!!",
+    "small_blind": 2.0,
+    "player_big_blind": "Silverchicken",
+    "big_blind": 4.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "7d",
+        "As"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6h",
+            "4d",
+            "Qh"
+        ],
+        "turn": [
+            "Kc"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "BiGFck",
+                "Einstein727",
+                "IlxxxlI",
+                "VegetablesArentYummy",
+                "bet2000",
+                "ConstanceHarm",
+                "SheppyPOO!!",
+                "Silverchicken"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                10.0,
+                8.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "SheppyPOO!!",
+                "Silverchicken"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                7.93,
+                7.93
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "SheppyPOO!!",
+                "Silverchicken"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                30.0,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        200.0,
+        381.10999999999996,
+        240.14,
+        70.65,
+        200.0,
+        100.8,
+        200.0,
+        474.67
+    ]
+}

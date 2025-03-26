@@ -1,0 +1,127 @@
+{
+    "date": "2016/9/18 10:10:2",
+    "game_id": "730275079",
+    "variant": "PRR",
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 5,
+    "players": [
+        "flyzlcomb07",
+        "VegetablesArentYummy",
+        "Taino44",
+        "xx_HaZ",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        649.37,
+        356.69,
+        114.88,
+        204.0,
+        155.74
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 2.0,
+    "player_big_blind": "flyzlcomb07",
+    "big_blind": 4.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10c",
+        "5h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7s",
+            "3c",
+            "6h"
+        ],
+        "turn": [
+            "6c"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "VegetablesArentYummy",
+                "Taino44",
+                "xx_HaZ",
+                "IlxxxlI",
+                "flyzlcomb07"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                10.0,
+                null,
+                null,
+                null,
+                6.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "flyzlcomb07",
+                "VegetablesArentYummy",
+                "flyzlcomb07"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                10.9,
+                10.9
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "flyzlcomb07",
+                "VegetablesArentYummy",
+                "flyzlcomb07"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                32.93,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        628.47,
+        379.19,
+        114.88,
+        204.0,
+        153.74
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "date": "2016/9/13 13:33:19",
+    "game_id": "726614510",
+    "variant": "PRR",
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 5,
+    "players": [
+        "SheppyPOO!!",
+        "IlxxxlI",
+        "xx_HaZ",
+        "miscusee"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        202.0,
+        109.3,
+        229.98,
+        225.45
+    ],
+    "player_small_blind": "SheppyPOO!!",
+    "small_blind": 2.0,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 4.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4s",
+        "7s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "2d",
+            "5d",
+            "2s"
+        ],
+        "turn": [
+            "5s"
+        ],
+        "river": [
+            "3d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "xx_HaZ",
+                "miscusee",
+                "SheppyPOO!!",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                10.0,
+                10.0,
+                null,
+                6.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "xx_HaZ",
+                "miscusee"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "xx_HaZ",
+                "miscusee"
+            ],
+            "actions": [
+                "BET",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                4.0,
+                null,
+                4.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "miscusee"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "4s 7s",
+        null,
+        "Kh 10h"
+    ],
+    "finishing_stack": [
+        200.0,
+        95.3,
+        219.98,
+        251.04999999999998
+    ]
+}

@@ -1,0 +1,1 @@
+{"context": " \n[TABLE_CONFIGURATION]\nBTN=P4\nSB=P5 0.5BB\nBB=P6 1BB\n\n[STACKS]\nP1: 17.0BB\nP2: 54.4BB\nP3: 68.3BB\nP4: 125.2BB\nP5: 70.0BB\nP6: 50.0BB\nP7: 40.6BB [9d 5s]\nP8: 65.8BB\nPOT=1.5BB\n\n[PREFLOP]\nP7: ", "truth": "FOLD\n"}

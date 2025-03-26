@@ -1,0 +1,105 @@
+{
+    "date": "2016/9/15 11:46:41",
+    "game_id": "728102383",
+    "variant": "PRR",
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 5,
+    "players": [
+        "Anastasia31",
+        "miscusee",
+        "TuxoH",
+        "allinoh",
+        "NoCortosPermite",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        200.0,
+        292.4,
+        235.75,
+        58.0,
+        306.61,
+        80.0
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 2.0,
+    "player_big_blind": "Anastasia31",
+    "big_blind": 4.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9h",
+        "6h"
+    ],
+    "dealed_cards": {
+        "flop": [],
+        "turn": [],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "miscusee",
+                "TuxoH",
+                "allinoh",
+                "NoCortosPermite",
+                "IlxxxlI",
+                "Anastasia31"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                8.0,
+                null,
+                null,
+                null,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        196.0,
+        298.4,
+        235.75,
+        58.0,
+        306.61,
+        78.0
+    ]
+}

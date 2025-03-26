@@ -1,0 +1,91 @@
+{
+    "date": "2016/9/5 1:19:5",
+    "game_id": "719791832",
+    "variant": "PRR",
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 1,
+    "players": [
+        "Leatherass9",
+        "IlxxxlI",
+        "Popka1337"
+    ],
+    "players_seats": [
+        1,
+        2,
+        5
+    ],
+    "starting_stacks": [
+        509.43,
+        80.0,
+        78.0
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 2.0,
+    "player_big_blind": "Leatherass9",
+    "big_blind": 4.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4s",
+        "Qs"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6h",
+            "2h",
+            "6s"
+        ],
+        "turn": [],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "Leatherass9"
+            ],
+            "actions": [
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                2.0,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "Leatherass9"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                4.0,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        505.43,
+        83.95,
+        78.0
+    ]
+}

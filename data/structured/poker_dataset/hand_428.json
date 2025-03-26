@@ -1,0 +1,110 @@
+{
+    "date": "2016/9/5 12:8:16",
+    "game_id": "720259926",
+    "variant": "PRR",
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 2,
+    "players": [
+        "follower1",
+        "IlxxxlI",
+        "whitnez33",
+        "bigrpk22",
+        "RumCola 86"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        200.0,
+        88.0,
+        266.65,
+        254.85,
+        127.37
+    ],
+    "player_small_blind": "whitnez33",
+    "small_blind": 2.0,
+    "player_big_blind": "bigrpk22",
+    "big_blind": 4.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "2c",
+        "6c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9s",
+            "4s",
+            "Ks"
+        ],
+        "turn": [],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "RumCola 86",
+                "follower1",
+                "IlxxxlI",
+                "whitnez33",
+                "bigrpk22"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                6.0,
+                4.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "whitnez33",
+                "bigrpk22"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                4.0,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        200.0,
+        88.0,
+        274.5,
+        246.85,
+        127.37
+    ]
+}

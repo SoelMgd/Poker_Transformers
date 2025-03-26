@@ -1,0 +1,129 @@
+{
+    "date": "2016/9/5 12:42:43",
+    "game_id": "720269828",
+    "variant": "PRR",
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 4,
+    "players": [
+        "oleg_dagi",
+        "IlxxxlI",
+        "SheppyPOO!!",
+        "St3p04ka",
+        "RapaNui"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        80.0,
+        80.0,
+        239.66,
+        111.45,
+        239.25
+    ],
+    "player_small_blind": "St3p04ka",
+    "small_blind": 2.0,
+    "player_big_blind": "oleg_dagi",
+    "big_blind": 4.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Kc",
+        "3c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8d",
+            "4h",
+            "7c"
+        ],
+        "turn": [
+            "5h"
+        ],
+        "river": [
+            "6c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "SheppyPOO!!",
+                "St3p04ka",
+                "oleg_dagi"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                8.0,
+                null,
+                null,
+                4.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "oleg_dagi",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "oleg_dagi",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "oleg_dagi",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "Ks Qh",
+        "Kc 3c",
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        80.93,
+        80.92,
+        239.66,
+        109.45,
+        239.25
+    ]
+}

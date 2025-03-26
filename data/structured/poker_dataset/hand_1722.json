@@ -1,0 +1,137 @@
+{
+    "date": "2016/9/18 8:1:49",
+    "game_id": "730206474",
+    "variant": "PRR",
+    "table_name": "Karkadann-4",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "VegetablesArentYummy",
+        "Pimpika",
+        "IlxxxlI",
+        "gosu36484",
+        "Antimonysayz",
+        "FirstClan",
+        "brainvape",
+        "BlitzWaut"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "starting_stacks": [
+        101.5,
+        72.2,
+        40.0,
+        54.9,
+        92.0,
+        100.0,
+        31.55,
+        239.58
+    ],
+    "player_small_blind": "Pimpika",
+    "small_blind": 0.5,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "3s",
+        "6h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Kc",
+            "6c",
+            "4s"
+        ],
+        "turn": [],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "gosu36484",
+                "Antimonysayz",
+                "FirstClan",
+                "brainvape",
+                "BlitzWaut",
+                "VegetablesArentYummy",
+                "Pimpika",
+                "IlxxxlI",
+                "FirstClan"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                3.0,
+                null,
+                null,
+                null,
+                7.5,
+                null,
+                5.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Pimpika",
+                "FirstClan"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                8.07,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        101.5,
+        80.35,
+        39.0,
+        54.9,
+        92.0,
+        92.0,
+        31.55,
+        239.58
+    ]
+}

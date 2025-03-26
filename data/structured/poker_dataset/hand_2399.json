@@ -1,0 +1,144 @@
+{
+    "date": "2016/9/18 9:53:41",
+    "game_id": "730268441",
+    "variant": "PRR",
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 4,
+    "players": [
+        "Bazuko",
+        "VegetablesArentYummy",
+        "Pureprofit4",
+        "hangiie",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        140.54,
+        344.13,
+        329.24,
+        189.8,
+        129.15
+    ],
+    "player_small_blind": "hangiie",
+    "small_blind": 2.0,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 4.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Kh",
+        "2h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "4h",
+            "7c",
+            "7h"
+        ],
+        "turn": [
+            "Ac"
+        ],
+        "river": [
+            "5h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Bazuko",
+                "VegetablesArentYummy",
+                "Pureprofit4",
+                "hangiie",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                10.0,
+                null,
+                8.0,
+                6.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "hangiie",
+                "IlxxxlI",
+                "VegetablesArentYummy"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "hangiie",
+                "IlxxxlI",
+                "VegetablesArentYummy"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "hangiie",
+                "IlxxxlI",
+                "VegetablesArentYummy",
+                "hangiie"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                14.85,
+                14.85,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        "Kh 2h"
+    ],
+    "finishing_stack": [
+        140.54,
+        319.28,
+        329.24,
+        179.8,
+        163.45000000000002
+    ]
+}

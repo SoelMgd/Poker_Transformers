@@ -1,0 +1,91 @@
+{
+    "date": "2016/9/18 9:17:40",
+    "game_id": "730250861",
+    "variant": "PRR",
+    "table_name": "Karkadann-3",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "BlitzWaut",
+        "VegetablesArentYummy",
+        "Pablo46",
+        "gosu36484",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        6,
+        9
+    ],
+    "starting_stacks": [
+        174.82,
+        104.76,
+        101.5,
+        44.17,
+        40.0
+    ],
+    "player_small_blind": "VegetablesArentYummy",
+    "small_blind": 0.5,
+    "player_big_blind": "gosu36484",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "2h",
+        "10h"
+    ],
+    "dealed_cards": {
+        "flop": [],
+        "turn": [],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "BlitzWaut",
+                "VegetablesArentYummy"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        174.82,
+        104.26,
+        101.5,
+        44.67,
+        40.0
+    ]
+}

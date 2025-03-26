@@ -1,0 +1,146 @@
+{
+    "date": "2016/9/4 1:51:48",
+    "game_id": "718931171",
+    "variant": "PRR",
+    "table_name": "Monopod",
+    "type_game": "Short",
+    "button_seat": 7,
+    "players": [
+        "BIGRAISE",
+        "cracypoker",
+        "bjv1105",
+        "IlxxxlI",
+        "WalterBlack",
+        "TheFront7"
+    ],
+    "players_seats": [
+        1,
+        3,
+        5,
+        6,
+        7,
+        8
+    ],
+    "starting_stacks": [
+        174.47,
+        231.55,
+        522.98,
+        80.0,
+        125.0,
+        265.95
+    ],
+    "player_small_blind": "TheFront7",
+    "small_blind": 2.0,
+    "player_big_blind": "BIGRAISE",
+    "big_blind": 4.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6c",
+        "8h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10s",
+            "Ac",
+            "Ad"
+        ],
+        "turn": [
+            "4s"
+        ],
+        "river": [
+            "2c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "cracypoker",
+                "bjv1105",
+                "IlxxxlI",
+                "WalterBlack",
+                "TheFront7",
+                "BIGRAISE"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                4.0,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "BIGRAISE",
+                "WalterBlack",
+                "BIGRAISE"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                4.0,
+                4.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "BIGRAISE",
+                "WalterBlack",
+                "BIGRAISE"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                4.0,
+                4.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "BIGRAISE",
+                "WalterBlack"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "As 3h",
+        null,
+        null,
+        null,
+        "9h 9s",
+        null
+    ],
+    "finishing_stack": [
+        188.22,
+        231.55,
+        522.98,
+        80.0,
+        113.0,
+        263.95
+    ]
+}

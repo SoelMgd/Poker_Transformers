@@ -1,0 +1,151 @@
+{
+    "date": "2016/9/6 0:46:31",
+    "game_id": "720648383",
+    "variant": "PRR",
+    "table_name": "Monopod",
+    "type_game": "Cap",
+    "button_seat": 5,
+    "players": [
+        "BigLou1212",
+        "BIGRAISE",
+        "JikkiP",
+        "HookahBOSS",
+        "Maria26years",
+        "gfclbv",
+        "Leatherass9",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+    ],
+    "starting_stacks": [
+        274.97,
+        259.35,
+        143.2,
+        369.36,
+        305.81,
+        584.4,
+        400.0,
+        160.0
+    ],
+    "player_small_blind": "gfclbv",
+    "small_blind": 2.0,
+    "player_big_blind": "Leatherass9",
+    "big_blind": 4.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ah",
+        "6h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "2s",
+            "7h",
+            "7s"
+        ],
+        "turn": [
+            "8h"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "BigLou1212",
+                "BIGRAISE",
+                "JikkiP",
+                "HookahBOSS",
+                "Maria26years",
+                "gfclbv",
+                "Leatherass9",
+                "BigLou1212"
+            ],
+            "actions": [
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                4.0,
+                null,
+                null,
+                16.0,
+                null,
+                null,
+                null,
+                12.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "BigLou1212",
+                "HookahBOSS"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "BigLou1212",
+                "HookahBOSS",
+                "BigLou1212"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                32.2,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        258.97,
+        259.35,
+        143.2,
+        391.01,
+        305.81,
+        582.4,
+        396.0,
+        160.0
+    ]
+}

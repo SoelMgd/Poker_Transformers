@@ -1,0 +1,105 @@
+{
+    "date": "2016/9/15 12:11:40",
+    "game_id": "728108634",
+    "variant": "PRR",
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 6,
+    "players": [
+        "xx_HaZ",
+        "TuxoH",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        2,
+        3,
+        6
+    ],
+    "starting_stacks": [
+        200.0,
+        210.3,
+        216.9
+    ],
+    "player_small_blind": "xx_HaZ",
+    "small_blind": 2.0,
+    "player_big_blind": "TuxoH",
+    "big_blind": 4.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "3d",
+        "8d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "2s",
+            "Jd",
+            "5s"
+        ],
+        "turn": [
+            "5d"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "xx_HaZ",
+                "TuxoH"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                10.0,
+                8.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "xx_HaZ",
+                "TuxoH"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "xx_HaZ",
+                "TuxoH"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                16.0,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        211.8,
+        198.3,
+        216.9
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "date": "2016/9/4 9:41:3",
+    "game_id": "719274456",
+    "variant": "PRR",
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 2,
+    "players": [
+        "IlxxxlI",
+        "Kak_Ded_Y4il",
+        "VegetablesArentYummy"
+    ],
+    "players_seats": [
+        2,
+        3,
+        6
+    ],
+    "starting_stacks": [
+        92.0,
+        200.0,
+        200.0
+    ],
+    "player_small_blind": "Kak_Ded_Y4il",
+    "small_blind": 2.0,
+    "player_big_blind": "VegetablesArentYummy",
+    "big_blind": 4.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6c",
+        "6h"
+    ],
+    "dealed_cards": {
+        "flop": [],
+        "turn": [],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "Kak_Ded_Y4il",
+                "VegetablesArentYummy"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                8.0,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        98.0,
+        198.0,
+        196.0
+    ]
+}

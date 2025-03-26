@@ -1,0 +1,140 @@
+{
+    "date": "2016/9/5 11:51:40",
+    "game_id": "720254724",
+    "variant": "PRR",
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 6,
+    "players": [
+        "graphicup",
+        "lars76",
+        "IlxxxlI",
+        "ShtrafBat",
+        "follower1",
+        "SheppyPOO!!"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        198.48,
+        142.15,
+        124.75,
+        96.8,
+        278.21,
+        214.0
+    ],
+    "player_small_blind": "graphicup",
+    "small_blind": 2.0,
+    "player_big_blind": "lars76",
+    "big_blind": 4.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8c",
+        "6c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "As",
+            "8h",
+            "5c"
+        ],
+        "turn": [
+            "8s"
+        ],
+        "river": [
+            "5h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "ShtrafBat",
+                "follower1",
+                "SheppyPOO!!",
+                "graphicup",
+                "lars76"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                8.0,
+                null,
+                null,
+                null,
+                4.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "lars76",
+                "ShtrafBat"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "lars76",
+                "ShtrafBat"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "lars76",
+                "ShtrafBat"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        "7h 7d",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        196.48,
+        134.15,
+        124.75,
+        106.65,
+        278.21,
+        214.0
+    ]
+}

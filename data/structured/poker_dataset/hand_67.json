@@ -1,0 +1,149 @@
+{
+    "date": "2016/9/4 9:40:10",
+    "game_id": "719274029",
+    "variant": "PRR",
+    "table_name": "Pegasus",
+    "type_game": "Short",
+    "button_seat": 5,
+    "players": [
+        "Martyrs",
+        "bet2000",
+        "Pureprofit4",
+        "Kak_Ded_Y4il",
+        "SheppyPOO!!",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        305.32,
+        300.0,
+        386.6,
+        513.24,
+        312.0,
+        120.0
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 3.0,
+    "player_big_blind": "Martyrs",
+    "big_blind": 6.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Jc",
+        "Ad"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "3c",
+            "7c",
+            "Ks"
+        ],
+        "turn": [
+            "4s"
+        ],
+        "river": [
+            "6c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "bet2000",
+                "Pureprofit4",
+                "Kak_Ded_Y4il",
+                "SheppyPOO!!",
+                "IlxxxlI",
+                "Martyrs"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                13.8,
+                null,
+                null,
+                null,
+                10.8,
+                7.8
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "Martyrs",
+                "bet2000"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "Martyrs",
+                "bet2000"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "Martyrs",
+                "bet2000"
+            ],
+            "actions": [
+                "BET",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                30.0,
+                30.0,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "10d 5d",
+        null,
+        null,
+        null,
+        null,
+        "Jc Ad"
+    ],
+    "finishing_stack": [
+        361.91999999999996,
+        286.2,
+        386.6,
+        513.24,
+        312.0,
+        76.2
+    ]
+}

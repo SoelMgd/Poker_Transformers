@@ -1,0 +1,130 @@
+{
+    "date": "2016/9/17 11:17:39",
+    "game_id": "729554535",
+    "variant": "PRR",
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 5,
+    "players": [
+        "RCSOX",
+        "IlxxxlI",
+        "Johannah12",
+        "pokerhawk333",
+        "Pureprofit4"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        134.97,
+        122.08,
+        200.0,
+        167.18,
+        339.5
+    ],
+    "player_small_blind": "Pureprofit4",
+    "small_blind": 2.0,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 4.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "7c",
+        "9c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6d",
+            "Jd",
+            "9d"
+        ],
+        "turn": [
+            "Qc"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Johannah12",
+                "pokerhawk333",
+                "Pureprofit4",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                8.0,
+                8.0,
+                null,
+                4.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "Johannah12",
+                "pokerhawk333",
+                "IlxxxlI",
+                "Johannah12"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                8.58,
+                8.58,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "pokerhawk333",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                28.5,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        134.97,
+        105.5,
+        192.0,
+        193.36,
+        337.5
+    ]
+}

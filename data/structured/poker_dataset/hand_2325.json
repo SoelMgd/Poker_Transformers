@@ -1,0 +1,132 @@
+{
+    "date": "2016/9/18 9:32:40",
+    "game_id": "730258246",
+    "variant": "PRR",
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 6,
+    "players": [
+        "winchy21",
+        "VegetablesArentYummy",
+        "flyzlcomb07",
+        "Pureprofit4",
+        "hangiie",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        104.77,
+        305.94,
+        560.65,
+        301.02,
+        200.0,
+        80.0
+    ],
+    "player_small_blind": "winchy21",
+    "small_blind": 2.0,
+    "player_big_blind": "VegetablesArentYummy",
+    "big_blind": 4.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5d",
+        "6c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10d",
+            "3c",
+            "6h"
+        ],
+        "turn": [
+            "Jc"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "flyzlcomb07",
+                "Pureprofit4",
+                "hangiie",
+                "IlxxxlI",
+                "winchy21",
+                "VegetablesArentYummy"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                10.0,
+                null,
+                null,
+                null,
+                8.0,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "winchy21",
+                "flyzlcomb07"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "winchy21",
+                "flyzlcomb07",
+                "winchy21"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                11.9,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        94.77,
+        301.94,
+        574.4499999999999,
+        301.02,
+        200.0,
+        80.0
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "date": "2016/9/18 9:52:49",
+    "game_id": "730268030",
+    "variant": "PRR",
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 2,
+    "players": [
+        "Bazuko",
+        "VegetablesArentYummy",
+        "Pureprofit4",
+        "hangiie",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        140.54,
+        344.13,
+        331.24,
+        207.75,
+        109.55
+    ],
+    "player_small_blind": "Pureprofit4",
+    "small_blind": 2.0,
+    "player_big_blind": "hangiie",
+    "big_blind": 4.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8h",
+        "8s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9c",
+            "9s",
+            "10h"
+        ],
+        "turn": [
+            "6h"
+        ],
+        "river": [
+            "Ah"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "Bazuko",
+                "VegetablesArentYummy",
+                "Pureprofit4",
+                "hangiie"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                8.0,
+                null,
+                null,
+                null,
+                4.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "hangiie",
+                "IlxxxlI",
+                "hangiie"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                5.95,
+                5.95
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "hangiie",
+                "IlxxxlI",
+                "hangiie"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                4.0,
+                4.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "hangiie",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        "8h 8s"
+    ],
+    "finishing_stack": [
+        140.54,
+        344.13,
+        329.24,
+        189.8,
+        129.14999999999998
+    ]
+}

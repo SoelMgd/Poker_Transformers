@@ -1,0 +1,164 @@
+{
+    "date": "2016/9/6 0:36:54",
+    "game_id": "720640159",
+    "variant": "PRR",
+    "table_name": "Monopod",
+    "type_game": "Cap",
+    "button_seat": 5,
+    "players": [
+        "BigLou1212",
+        "BIGRAISE",
+        "HookahBOSS",
+        "Maria26years",
+        "Leatherass9",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        5,
+        7,
+        8
+    ],
+    "starting_stacks": [
+        241.59,
+        198.55,
+        366.31,
+        359.34,
+        400.7,
+        160.0
+    ],
+    "player_small_blind": "Leatherass9",
+    "small_blind": 2.0,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 4.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "3d",
+        "6h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Js",
+            "8d",
+            "As"
+        ],
+        "turn": [
+            "4c"
+        ],
+        "river": [
+            "5s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "BigLou1212",
+                "BIGRAISE",
+                "HookahBOSS",
+                "Maria26years",
+                "Leatherass9",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "CALL",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                8.8,
+                8.8,
+                8.8,
+                6.8,
+                4.8
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Leatherass9",
+                "IlxxxlI",
+                "BIGRAISE",
+                "HookahBOSS",
+                "Maria26years"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Leatherass9",
+                "IlxxxlI",
+                "BIGRAISE",
+                "HookahBOSS",
+                "Maria26years",
+                "Leatherass9",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                21.8,
+                null,
+                21.8,
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "BIGRAISE",
+                "Maria26years"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "Qs Ac",
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        241.59,
+        254.70000000000002,
+        357.51,
+        328.73999999999995,
+        391.9,
+        151.2
+    ]
+}

@@ -1,0 +1,148 @@
+{
+    "date": "2016/9/6 0:42:58",
+    "game_id": "720645393",
+    "variant": "PRR",
+    "table_name": "Monopod",
+    "type_game": "Cap",
+    "button_seat": 2,
+    "players": [
+        "BigLou1212",
+        "BIGRAISE",
+        "JikkiP",
+        "HookahBOSS",
+        "Maria26years",
+        "Leatherass9",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        7,
+        8
+    ],
+    "starting_stacks": [
+        264.17,
+        259.35,
+        151.2,
+        357.51,
+        311.81,
+        400.0,
+        160.0
+    ],
+    "player_small_blind": "JikkiP",
+    "small_blind": 2.0,
+    "player_big_blind": "HookahBOSS",
+    "big_blind": 4.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9h",
+        "2h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "5s",
+            "10d",
+            "4h"
+        ],
+        "turn": [
+            "2c"
+        ],
+        "river": [
+            "10c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Maria26years",
+                "Leatherass9",
+                "IlxxxlI",
+                "BigLou1212",
+                "BIGRAISE",
+                "JikkiP",
+                "HookahBOSS"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                2.0,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "JikkiP",
+                "HookahBOSS"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "JikkiP",
+                "HookahBOSS"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                4.0,
+                4.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "JikkiP",
+                "HookahBOSS"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "Ac 6s",
+        "9c 2s",
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        264.17,
+        259.35,
+        143.2,
+        365.36,
+        311.81,
+        400.0,
+        160.0
+    ]
+}

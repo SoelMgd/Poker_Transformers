@@ -1,0 +1,113 @@
+{
+    "date": "2016/9/5 11:54:52",
+    "game_id": "720255805",
+    "variant": "PRR",
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 3,
+    "players": [
+        "graphicup",
+        "lars76",
+        "IlxxxlI",
+        "ShtrafBat",
+        "follower1"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        196.48,
+        138.15,
+        118.75,
+        102.65,
+        284.21
+    ],
+    "player_small_blind": "ShtrafBat",
+    "small_blind": 2.0,
+    "player_big_blind": "follower1",
+    "big_blind": 4.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "7h",
+        "Jc"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Jh",
+            "3d",
+            "6h"
+        ],
+        "turn": [],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "graphicup",
+                "lars76",
+                "IlxxxlI",
+                "ShtrafBat",
+                "follower1"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                6.0,
+                4.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "ShtrafBat",
+                "follower1",
+                "ShtrafBat"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                10.56,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        196.48,
+        138.15,
+        118.75,
+        94.65,
+        292.06
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "date": "2016/9/4 9:44:27",
+    "game_id": "719276165",
+    "variant": "PRR",
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 4,
+    "players": [
+        "IlxxxlI",
+        "bet2000",
+        "graphicup"
+    ],
+    "players_seats": [
+        1,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        80.0,
+        441.75,
+        164.0
+    ],
+    "player_small_blind": "graphicup",
+    "small_blind": 2.0,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 4.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ad",
+        "3d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "2h",
+            "4s",
+            "5s"
+        ],
+        "turn": [
+            "Qs"
+        ],
+        "river": [
+            "10h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "bet2000",
+                "graphicup",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                9.2,
+                null,
+                5.2
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "bet2000"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "bet2000"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                14.0,
+                14.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "bet2000"
+            ],
+            "actions": [
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                56.8,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        104.75,
+        418.55,
+        162.0
+    ]
+}

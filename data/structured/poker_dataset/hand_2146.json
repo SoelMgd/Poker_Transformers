@@ -1,0 +1,165 @@
+{
+    "date": "2016/9/18 8:56:17",
+    "game_id": "730239734",
+    "variant": "PRR",
+    "table_name": "Longana",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "gosu36484",
+        "IlxxxlI",
+        "Pimpika",
+        "VegetablesArentYummy",
+        "GARY888",
+        "Torinsurance",
+        "FishinChips",
+        "Crabbapple"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+    ],
+    "starting_stacks": [
+        98.25,
+        80.0,
+        152.16,
+        241.91,
+        78.63,
+        83.31,
+        100.28,
+        119.99
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 1.0,
+    "player_big_blind": "Pimpika",
+    "big_blind": 2.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10c",
+        "3c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "2c",
+            "8s",
+            "Kd"
+        ],
+        "turn": [
+            "10h"
+        ],
+        "river": [
+            "7h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "VegetablesArentYummy",
+                "GARY888",
+                "Torinsurance",
+                "FishinChips",
+                "Crabbapple",
+                "gosu36484",
+                "IlxxxlI",
+                "Pimpika",
+                "FishinChips",
+                "Crabbapple"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CALL",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                2.0,
+                2.0,
+                10.0,
+                null,
+                null,
+                8.0,
+                8.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "FishinChips",
+                "Crabbapple",
+                "gosu36484",
+                "FishinChips",
+                "Crabbapple"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                20.0,
+                null,
+                20.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Crabbapple",
+                "gosu36484",
+                "Crabbapple"
+            ],
+            "actions": [
+                "CHECK",
+                "ALLIN",
+                "CALL"
+            ],
+            "values": [
+                null,
+                68.25,
+                68.25
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        "As Ks",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "8h 9h"
+    ],
+    "finishing_stack": [
+        206.5,
+        79.0,
+        150.16,
+        241.91,
+        78.63,
+        83.31,
+        90.28,
+        21.739999999999995
+    ]
+}

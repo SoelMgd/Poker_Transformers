@@ -1,0 +1,135 @@
+{
+    "date": "2016/9/5 11:57:17",
+    "game_id": "720256566",
+    "variant": "PRR",
+    "table_name": "Pegasus",
+    "type_game": "Short",
+    "button_seat": 2,
+    "players": [
+        "GranatoBetano",
+        "St3p04ka",
+        "IlxxxlI",
+        "bigrpk22",
+        "Jimisdumb",
+        "follower1"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        357.65,
+        132.0,
+        166.58,
+        260.55,
+        143.07,
+        423.65
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 3.0,
+    "player_big_blind": "bigrpk22",
+    "big_blind": 6.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Qc",
+        "10h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7s",
+            "Jd",
+            "5s"
+        ],
+        "turn": [
+            "3d"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Jimisdumb",
+                "follower1",
+                "GranatoBetano",
+                "St3p04ka",
+                "IlxxxlI",
+                "bigrpk22",
+                "St3p04ka"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                12.0,
+                15.0,
+                null,
+                6.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "St3p04ka"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                11.0,
+                11.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "St3p04ka",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                19.87,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        357.65,
+        166.4,
+        137.58,
+        254.55,
+        143.07,
+        423.65
+    ]
+}

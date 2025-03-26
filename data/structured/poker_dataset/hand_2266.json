@@ -1,0 +1,145 @@
+{
+    "date": "2016/9/18 9:11:58",
+    "game_id": "730248095",
+    "variant": "PRR",
+    "table_name": "Longana",
+    "type_game": "Hold'em",
+    "button_seat": 8,
+    "players": [
+        "Lewass99",
+        "IlxxxlI",
+        "Pimpika",
+        "VegetablesArentYummy",
+        "OnOnePoker",
+        "FishinChips",
+        "hangiie",
+        "aquamarin"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6,
+        7,
+        8,
+        9
+    ],
+    "starting_stacks": [
+        133.49,
+        80.14,
+        153.61,
+        235.91,
+        85.0,
+        82.25,
+        96.97,
+        137.6
+    ],
+    "player_small_blind": "aquamarin",
+    "small_blind": 1.0,
+    "player_big_blind": "Lewass99",
+    "big_blind": 2.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6h",
+        "Jc"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "3h",
+            "Qh",
+            "5s"
+        ],
+        "turn": [
+            "9d"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "Pimpika",
+                "VegetablesArentYummy",
+                "OnOnePoker",
+                "FishinChips",
+                "hangiie",
+                "aquamarin",
+                "Lewass99"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                5.0,
+                4.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "aquamarin",
+                "Lewass99"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                7.0,
+                7.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "aquamarin",
+                "Lewass99"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                18.0,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        120.49000000000001,
+        80.14,
+        153.61,
+        235.91,
+        85.0,
+        82.25,
+        96.97,
+        149.29999999999998
+    ]
+}

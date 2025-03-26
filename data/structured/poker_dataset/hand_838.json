@@ -1,0 +1,129 @@
+{
+    "date": "2016/9/6 0:40:10",
+    "game_id": "720642991",
+    "variant": "PRR",
+    "table_name": "Monopod",
+    "type_game": "Cap",
+    "button_seat": 7,
+    "players": [
+        "BigLou1212",
+        "BIGRAISE",
+        "HookahBOSS",
+        "Maria26years",
+        "Leatherass9",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        5,
+        7,
+        8
+    ],
+    "starting_stacks": [
+        241.59,
+        254.7,
+        357.51,
+        328.74,
+        400.0,
+        160.0
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 2.0,
+    "player_big_blind": "BigLou1212",
+    "big_blind": 4.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6d",
+        "Js"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Jd",
+            "4d",
+            "4s"
+        ],
+        "turn": [
+            "3c"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "BIGRAISE",
+                "HookahBOSS",
+                "Maria26years",
+                "Leatherass9",
+                "IlxxxlI",
+                "BigLou1212"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                8.0,
+                null,
+                null,
+                4.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "BigLou1212",
+                "Maria26years"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                8.93,
+                8.93
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "BigLou1212",
+                "Maria26years"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                35.51,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        260.17,
+        254.7,
+        357.51,
+        311.81,
+        400.0,
+        158.0
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "date": "2016/9/17 11:9:28",
+    "game_id": "729551875",
+    "variant": "PRR",
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 5,
+    "players": [
+        "flyzlcomb07",
+        "RCSOX",
+        "IlxxxlI",
+        "graphicup",
+        "SheppyPOO!!",
+        "Pureprofit4"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        341.38,
+        181.87,
+        118.1,
+        160.0,
+        228.7,
+        281.81
+    ],
+    "player_small_blind": "Pureprofit4",
+    "small_blind": 2.0,
+    "player_big_blind": "flyzlcomb07",
+    "big_blind": 4.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "3s",
+        "10s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Ac",
+            "10c",
+            "5d"
+        ],
+        "turn": [
+            "9c"
+        ],
+        "river": [
+            "Qc"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "RCSOX",
+                "IlxxxlI",
+                "graphicup",
+                "SheppyPOO!!",
+                "Pureprofit4",
+                "flyzlcomb07"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                8.0,
+                null,
+                8.0,
+                null,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "RCSOX",
+                "graphicup"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                10.9,
+                10.9
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "RCSOX",
+                "graphicup"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "RCSOX",
+                "graphicup"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                4.0,
+                4.0
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "As Qs",
+        null,
+        "Ad Jc",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        337.38,
+        158.97,
+        118.1,
+        188.39999999999998,
+        228.7,
+        279.81
+    ]
+}

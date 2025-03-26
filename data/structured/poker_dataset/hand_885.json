@@ -1,0 +1,135 @@
+{
+    "date": "2016/9/6 0:50:40",
+    "game_id": "720651885",
+    "variant": "PRR",
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 4,
+    "players": [
+        "cuzyagood",
+        "Leatherass9",
+        "VegetablesArentYummy",
+        "IlxxxlI",
+        "skinnybluntzz"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        270.6,
+        200.0,
+        450.91,
+        162.99,
+        85.0
+    ],
+    "player_small_blind": "skinnybluntzz",
+    "small_blind": 2.0,
+    "player_big_blind": "cuzyagood",
+    "big_blind": 4.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4c",
+        "Kh"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "2c",
+            "3d",
+            "Ah"
+        ],
+        "turn": [
+            "4h"
+        ],
+        "river": [
+            "10s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Leatherass9",
+                "VegetablesArentYummy",
+                "IlxxxlI",
+                "skinnybluntzz",
+                "cuzyagood"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                8.0,
+                null,
+                null,
+                6.0,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "skinnybluntzz",
+                "Leatherass9",
+                "skinnybluntzz"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                12.0,
+                12.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "skinnybluntzz",
+                "Leatherass9"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                16.0,
+                16.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "skinnybluntzz",
+                "Leatherass9"
+            ],
+            "actions": [
+                "ALLIN",
+                "CALL"
+            ],
+            "values": [
+                49.0,
+                49.0
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "5h 5c",
+        null,
+        null,
+        "As 2s"
+    ],
+    "finishing_stack": [
+        266.6,
+        287.3,
+        450.91,
+        162.99,
+        0.0
+    ]
+}

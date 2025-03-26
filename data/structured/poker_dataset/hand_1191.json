@@ -1,0 +1,102 @@
+{
+    "date": "2016/9/15 12:9:17",
+    "game_id": "728108059",
+    "variant": "PRR",
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 3,
+    "players": [
+        "TuxoH",
+        "allinoh",
+        "NoCortosPermite",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        210.3,
+        67.85,
+        344.04,
+        146.4
+    ],
+    "player_small_blind": "allinoh",
+    "small_blind": 2.0,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 4.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6d",
+        "8d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "2h",
+            "7s",
+            "9d"
+        ],
+        "turn": [],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "TuxoH",
+                "allinoh",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                10.0,
+                8.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "allinoh",
+                "IlxxxlI",
+                "allinoh"
+            ],
+            "actions": [
+                "CHECK",
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                134.4,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        210.3,
+        55.849999999999994,
+        344.04,
+        158.20000000000002
+    ]
+}

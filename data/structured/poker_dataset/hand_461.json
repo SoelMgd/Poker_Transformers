@@ -1,0 +1,138 @@
+{
+    "date": "2016/9/5 12:14:40",
+    "game_id": "720261913",
+    "variant": "PRR",
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 5,
+    "players": [
+        "follower1",
+        "IlxxxlI",
+        "whitnez33",
+        "bigrpk22",
+        "RapaNui"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        208.0,
+        168.3,
+        306.47,
+        266.35,
+        200.0
+    ],
+    "player_small_blind": "follower1",
+    "small_blind": 2.0,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 4.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6h",
+        "5d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Ad",
+            "4s",
+            "6d"
+        ],
+        "turn": [
+            "Jc"
+        ],
+        "river": [
+            "As"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "whitnez33",
+                "bigrpk22",
+                "RapaNui",
+                "follower1",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                8.0,
+                null,
+                4.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "RapaNui",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                5.95,
+                5.95
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "RapaNui"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "RapaNui",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                14.82,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        206.0,
+        154.35000000000002,
+        306.47,
+        266.35,
+        215.70000000000002
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "date": "2016/9/5 12:18:16",
+    "game_id": "720263029",
+    "variant": "PRR",
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 2,
+    "players": [
+        "bigrpk22",
+        "lars76",
+        "IlxxxlI",
+        "follower1",
+        "RapaNui"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        170.0,
+        173.49,
+        80.0,
+        316.9,
+        255.93
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 2.0,
+    "player_big_blind": "follower1",
+    "big_blind": 4.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Qh",
+        "7h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10h",
+            "6c",
+            "8h"
+        ],
+        "turn": [
+            "Qc"
+        ],
+        "river": [
+            "9d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "RapaNui",
+                "bigrpk22",
+                "lars76",
+                "IlxxxlI",
+                "follower1"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                8.0,
+                null,
+                8.0,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "RapaNui",
+                "lars76"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                14.53,
+                14.53
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "RapaNui",
+                "lars76",
+                "RapaNui"
+            ],
+            "actions": [
+                "BET",
+                "ALLIN",
+                "CALL"
+            ],
+            "values": [
+                44.0,
+                150.96,
+                106.96
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "7c Jc",
+        null,
+        null,
+        "6h 6d"
+    ],
+    "finishing_stack": [
+        170.0,
+        349.98,
+        78.0,
+        312.9,
+        82.44
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "date": "2016/9/17 11:52:7",
+    "game_id": "729564654",
+    "variant": "PRR",
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 6,
+    "players": [
+        "SheppyPOO!!",
+        "RCSOX",
+        "IlxxxlI",
+        "Johannah12",
+        "pokerhawk333",
+        "xx_HaZ"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        276.44,
+        133.78,
+        281.16,
+        200.0,
+        184.56,
+        200.0
+    ],
+    "player_small_blind": "SheppyPOO!!",
+    "small_blind": 2.0,
+    "player_big_blind": "RCSOX",
+    "big_blind": 4.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "3h",
+        "Kd"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6h",
+            "Jh",
+            "Ad"
+        ],
+        "turn": [
+            "As"
+        ],
+        "river": [
+            "7s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "Johannah12",
+                "pokerhawk333",
+                "xx_HaZ",
+                "SheppyPOO!!",
+                "RCSOX"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                8.0,
+                null,
+                null,
+                4.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "RCSOX",
+                "pokerhawk333",
+                "RCSOX"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                5.95,
+                5.95
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "RCSOX",
+                "pokerhawk333",
+                "RCSOX"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                14.82,
+                14.82
+            ]
+        },
+        "post-river": {
+            "players": [
+                "RCSOX",
+                "pokerhawk333"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        "4s 4c",
+        null
+    ],
+    "finishing_stack": [
+        274.44,
+        105.01,
+        281.16,
+        200.0,
+        214.78,
+        200.0
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "date": "2016/9/18 9:23:59",
+    "game_id": "730254033",
+    "variant": "PRR",
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 2,
+    "players": [
+        "winchy21",
+        "VegetablesArentYummy",
+        "flyzlcomb07",
+        "Pureprofit4",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        96.74,
+        281.57,
+        472.42,
+        212.62,
+        80.0
+    ],
+    "player_small_blind": "flyzlcomb07",
+    "small_blind": 2.0,
+    "player_big_blind": "Pureprofit4",
+    "big_blind": 4.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Qc",
+        "7c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10d",
+            "6s",
+            "8h"
+        ],
+        "turn": [
+            "7d"
+        ],
+        "river": [
+            "10h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "winchy21",
+                "VegetablesArentYummy",
+                "flyzlcomb07",
+                "Pureprofit4"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                8.0,
+                null,
+                6.0,
+                4.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "flyzlcomb07",
+                "Pureprofit4",
+                "winchy21",
+                "flyzlcomb07"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                15.86,
+                null,
+                15.86
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "flyzlcomb07",
+                "Pureprofit4"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                27.58,
+                27.58
+            ]
+        },
+        "post-river": {
+            "players": [
+                "flyzlcomb07",
+                "Pureprofit4"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                54.89,
+                54.89
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "9d Js",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        88.74,
+        281.57,
+        584.5500000000001,
+        106.29,
+        80.0
+    ]
+}

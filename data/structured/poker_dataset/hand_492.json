@@ -1,0 +1,129 @@
+{
+    "date": "2016/9/5 12:22:34",
+    "game_id": "720264317",
+    "variant": "PRR",
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 2,
+    "players": [
+        "bigrpk22",
+        "lars76",
+        "IlxxxlI",
+        "follower1",
+        "RapaNui"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        170.0,
+        331.98,
+        95.8,
+        322.7,
+        200.0
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 2.0,
+    "player_big_blind": "RapaNui",
+    "big_blind": 4.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9c",
+        "2d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7h",
+            "6c",
+            "4h"
+        ],
+        "turn": [
+            "Ac"
+        ],
+        "river": [
+            "9h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "bigrpk22",
+                "lars76",
+                "IlxxxlI",
+                "RapaNui"
+            ],
+            "actions": [
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                4.0,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "RapaNui",
+                "lars76"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                4.0,
+                4.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "RapaNui",
+                "lars76"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "RapaNui",
+                "lars76"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        "10d 6h"
+    ],
+    "finishing_stack": [
+        170.0,
+        323.98,
+        93.8,
+        322.7,
+        209.85
+    ]
+}

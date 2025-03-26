@@ -1,0 +1,155 @@
+{
+    "date": "2016/9/5 12:53:16",
+    "game_id": "720272722",
+    "variant": "PRR",
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 1,
+    "players": [
+        "SheppyPOO!!",
+        "IlxxxlI",
+        "whitnez33",
+        "ShtrafBat",
+        "RapaNui",
+        "St3p04ka"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        208.5,
+        80.0,
+        482.67,
+        102.0,
+        200.0,
+        117.53
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 2.0,
+    "player_big_blind": "whitnez33",
+    "big_blind": 4.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10h",
+        "5s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qc",
+            "2h",
+            "Jc"
+        ],
+        "turn": [
+            "10d"
+        ],
+        "river": [
+            "4s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "ShtrafBat",
+                "RapaNui",
+                "St3p04ka",
+                "SheppyPOO!!",
+                "IlxxxlI",
+                "whitnez33"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                12.0,
+                null,
+                12.0,
+                null,
+                8.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "whitnez33",
+                "RapaNui",
+                "SheppyPOO!!"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "whitnez33",
+                "RapaNui",
+                "SheppyPOO!!"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "whitnez33",
+                "RapaNui",
+                "SheppyPOO!!",
+                "whitnez33",
+                "RapaNui"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                28.0,
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        234.15,
+        78.0,
+        470.67,
+        102.0,
+        188.0,
+        117.53
+    ]
+}

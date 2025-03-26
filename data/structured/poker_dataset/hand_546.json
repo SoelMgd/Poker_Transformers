@@ -1,0 +1,135 @@
+{
+    "date": "2016/9/5 12:34:47",
+    "game_id": "720267696",
+    "variant": "PRR",
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 6,
+    "players": [
+        "bigrpk22",
+        "lars76",
+        "IlxxxlI",
+        "SheppyPOO!!",
+        "St3p04ka",
+        "RapaNui"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        160.0,
+        360.43,
+        80.0,
+        211.85,
+        101.6,
+        225.4
+    ],
+    "player_small_blind": "bigrpk22",
+    "small_blind": 2.0,
+    "player_big_blind": "lars76",
+    "big_blind": 4.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Js",
+        "5d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "As",
+            "5c",
+            "2c"
+        ],
+        "turn": [
+            "8h"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "SheppyPOO!!",
+                "St3p04ka",
+                "RapaNui",
+                "bigrpk22",
+                "lars76"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                8.0,
+                null,
+                null,
+                null,
+                4.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "lars76",
+                "SheppyPOO!!",
+                "lars76"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                12.0,
+                12.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "lars76",
+                "SheppyPOO!!",
+                "lars76"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                29.0,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        158.0,
+        340.43,
+        80.0,
+        233.45,
+        101.6,
+        225.4
+    ]
+}

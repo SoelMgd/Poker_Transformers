@@ -1,0 +1,102 @@
+{
+    "date": "2016/9/4 9:58:24",
+    "game_id": "719282780",
+    "variant": "PRR",
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 3,
+    "players": [
+        "IlxxxlI",
+        "SheppyPOO!!",
+        "VegetablesArentYummy",
+        "bet2000",
+        "Anthony2287",
+        "ConstanceHarm"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        80.0,
+        480.3,
+        200.0,
+        493.45,
+        318.35,
+        215.2
+    ],
+    "player_small_blind": "bet2000",
+    "small_blind": 2.0,
+    "player_big_blind": "Anthony2287",
+    "big_blind": 4.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "3s",
+        "2h"
+    ],
+    "dealed_cards": {
+        "flop": [],
+        "turn": [],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "ConstanceHarm",
+                "IlxxxlI",
+                "SheppyPOO!!",
+                "VegetablesArentYummy",
+                "bet2000"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        80.0,
+        480.3,
+        200.0,
+        491.45,
+        320.35,
+        215.2
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "date": "2016/9/17 10:32:54",
+    "game_id": "729537949",
+    "variant": "PRR",
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 6,
+    "players": [
+        "flyzlcomb07",
+        "RCSOX",
+        "IlxxxlI",
+        "Pureprofit4"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        6
+    ],
+    "starting_stacks": [
+        411.2,
+        96.45,
+        97.8,
+        276.49
+    ],
+    "player_small_blind": "flyzlcomb07",
+    "small_blind": 2.0,
+    "player_big_blind": "RCSOX",
+    "big_blind": 4.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "7h",
+        "Ah"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8h",
+            "Ac",
+            "5d"
+        ],
+        "turn": [
+            "Ad"
+        ],
+        "river": [
+            "Jh"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "Pureprofit4",
+                "flyzlcomb07",
+                "RCSOX"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                8.0,
+                null,
+                null,
+                4.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "RCSOX",
+                "IlxxxlI",
+                "RCSOX",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                4.0,
+                23.39,
+                19.39
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "RCSOX",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "ALLIN",
+                "CALL"
+            ],
+            "values": [
+                65.06,
+                65.06
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "8d As",
+        "7h Ah",
+        null
+    ],
+    "finishing_stack": [
+        409.2,
+        193.0,
+        1.3499999999999943,
+        276.49
+    ]
+}

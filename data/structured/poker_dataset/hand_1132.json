@@ -1,0 +1,102 @@
+{
+    "date": "2016/9/13 13:45:12",
+    "game_id": "726616446",
+    "variant": "PRR",
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 4,
+    "players": [
+        "jcirone29",
+        "SheppyPOO!!",
+        "IlxxxlI",
+        "xx_HaZ",
+        "miscusee",
+        "uncle_argyle"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        546.07,
+        200.0,
+        102.02,
+        258.56,
+        200.0,
+        192.0
+    ],
+    "player_small_blind": "miscusee",
+    "small_blind": 2.0,
+    "player_big_blind": "jcirone29",
+    "big_blind": 4.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4h",
+        "10d"
+    ],
+    "dealed_cards": {
+        "flop": [],
+        "turn": [],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "SheppyPOO!!",
+                "IlxxxlI",
+                "xx_HaZ",
+                "miscusee",
+                "jcirone29"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                8.0,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        542.07,
+        200.0,
+        102.02,
+        264.56,
+        198.0,
+        192.0
+    ]
+}

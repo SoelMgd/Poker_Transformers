@@ -1,0 +1,138 @@
+{
+    "date": "2016/9/17 11:40:1",
+    "game_id": "729561172",
+    "variant": "PRR",
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 4,
+    "players": [
+        "SheppyPOO!!",
+        "RCSOX",
+        "IlxxxlI",
+        "Johannah12",
+        "pokerhawk333"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        206.0,
+        97.44,
+        287.31,
+        200.0,
+        196.29
+    ],
+    "player_small_blind": "pokerhawk333",
+    "small_blind": 2.0,
+    "player_big_blind": "SheppyPOO!!",
+    "big_blind": 4.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8c",
+        "Qs"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9c",
+            "Ac",
+            "4s"
+        ],
+        "turn": [
+            "Kc"
+        ],
+        "river": [
+            "3s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "RCSOX",
+                "IlxxxlI",
+                "Johannah12",
+                "pokerhawk333",
+                "SheppyPOO!!",
+                "pokerhawk333"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                6.0,
+                20.0,
+                16.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "pokerhawk333",
+                "SheppyPOO!!",
+                "pokerhawk333"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                23.77,
+                23.77
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "pokerhawk333",
+                "SheppyPOO!!"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "pokerhawk333",
+                "SheppyPOO!!"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                63.06,
+                63.06
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "Ad Js",
+        null,
+        null,
+        null,
+        "Ah 5h"
+    ],
+    "finishing_stack": [
+        314.63,
+        97.44,
+        287.31,
+        200.0,
+        85.46
+    ]
+}

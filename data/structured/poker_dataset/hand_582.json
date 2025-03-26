@@ -1,0 +1,97 @@
+{
+    "date": "2016/9/5 12:44:16",
+    "game_id": "720270256",
+    "variant": "PRR",
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 1,
+    "players": [
+        "SheppyPOO!!",
+        "IlxxxlI",
+        "whitnez33",
+        "RapaNui",
+        "St3p04ka"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        200.0,
+        80.0,
+        448.77,
+        217.7,
+        137.53
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 2.0,
+    "player_big_blind": "whitnez33",
+    "big_blind": 4.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8s",
+        "Kh"
+    ],
+    "dealed_cards": {
+        "flop": [],
+        "turn": [],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "RapaNui",
+                "St3p04ka",
+                "SheppyPOO!!",
+                "IlxxxlI",
+                "whitnez33"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                12.0,
+                null,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        200.0,
+        78.0,
+        444.77,
+        217.7,
+        143.53
+    ]
+}

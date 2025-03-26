@@ -1,0 +1,135 @@
+{
+    "date": "2016/9/4 10:5:4",
+    "game_id": "719285580",
+    "variant": "PRR",
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 4,
+    "players": [
+        "ShtrafBat",
+        "IlxxxlI",
+        "letsgooooo",
+        "Pureprofit4",
+        "SheppyPOO!!",
+        "bet2000"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        88.04,
+        130.17,
+        97.9,
+        564.36,
+        200.0,
+        560.02
+    ],
+    "player_small_blind": "SheppyPOO!!",
+    "small_blind": 2.0,
+    "player_big_blind": "bet2000",
+    "big_blind": 4.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6d",
+        "5c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qc",
+            "Ah",
+            "4c"
+        ],
+        "turn": [
+            "3d"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "ShtrafBat",
+                "IlxxxlI",
+                "letsgooooo",
+                "Pureprofit4",
+                "SheppyPOO!!",
+                "bet2000"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                8.0,
+                null,
+                null,
+                null,
+                null,
+                4.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "bet2000",
+                "ShtrafBat",
+                "bet2000"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                8.92,
+                8.92
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "bet2000",
+                "ShtrafBat",
+                "bet2000"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                23.66,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        106.61000000000001,
+        130.17,
+        97.9,
+        564.36,
+        198.0,
+        543.1
+    ]
+}

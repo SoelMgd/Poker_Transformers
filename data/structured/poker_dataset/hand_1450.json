@@ -1,0 +1,171 @@
+{
+    "date": "2016/9/18 7:16:34",
+    "game_id": "730176598",
+    "variant": "PRR",
+    "table_name": "Karkadann-3",
+    "type_game": "Hold'em",
+    "button_seat": 9,
+    "players": [
+        "BlitzWaut",
+        "VegetablesArentYummy",
+        "noFOLDbutton3",
+        "Gargantuatua",
+        "Pimpika",
+        "Fishtail2",
+        "FirstClan",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        8,
+        9
+    ],
+    "starting_stacks": [
+        115.79,
+        100.0,
+        199.9,
+        101.95,
+        74.61,
+        40.05,
+        145.23,
+        41.5
+    ],
+    "player_small_blind": "BlitzWaut",
+    "small_blind": 0.5,
+    "player_big_blind": "VegetablesArentYummy",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6s",
+        "5s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6c",
+            "5h",
+            "Ac"
+        ],
+        "turn": [
+            "3h"
+        ],
+        "river": [
+            "Ad"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "noFOLDbutton3",
+                "Gargantuatua",
+                "Pimpika",
+                "Fishtail2",
+                "FirstClan",
+                "IlxxxlI",
+                "BlitzWaut",
+                "VegetablesArentYummy"
+            ],
+            "actions": [
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                1.0,
+                null,
+                null,
+                1.0,
+                null,
+                null,
+                0.5,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "BlitzWaut",
+                "VegetablesArentYummy",
+                "noFOLDbutton3",
+                "Fishtail2",
+                "BlitzWaut",
+                "VegetablesArentYummy"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "CALL",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                2.0,
+                2.0,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "noFOLDbutton3",
+                "Fishtail2",
+                "noFOLDbutton3"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                4.0,
+                4.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "noFOLDbutton3",
+                "Fishtail2"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "6h 6d",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        114.79,
+        99.0,
+        192.9,
+        101.95,
+        74.61,
+        48.25,
+        145.23,
+        41.5
+    ]
+}

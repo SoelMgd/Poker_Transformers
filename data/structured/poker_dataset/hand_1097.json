@@ -1,0 +1,135 @@
+{
+    "date": "2016/9/13 13:31:12",
+    "game_id": "726614158",
+    "variant": "PRR",
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 3,
+    "players": [
+        "SheppyPOO!!",
+        "IlxxxlI",
+        "xx_HaZ",
+        "miscusee",
+        "T0ny Adams"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        206.0,
+        103.3,
+        257.98,
+        200.0,
+        253.55
+    ],
+    "player_small_blind": "xx_HaZ",
+    "small_blind": 2.0,
+    "player_big_blind": "miscusee",
+    "big_blind": 4.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6h",
+        "8d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7d",
+            "Kd",
+            "8s"
+        ],
+        "turn": [
+            "6d"
+        ],
+        "river": [
+            "10c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "T0ny Adams",
+                "SheppyPOO!!",
+                "IlxxxlI",
+                "xx_HaZ",
+                "miscusee"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                10.0,
+                8.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "xx_HaZ",
+                "miscusee"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "xx_HaZ",
+                "miscusee"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                16.0,
+                16.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "xx_HaZ",
+                "miscusee",
+                "xx_HaZ"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                40.0,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        206.0,
+        103.3,
+        229.98000000000002,
+        227.45,
+        253.55
+    ]
+}

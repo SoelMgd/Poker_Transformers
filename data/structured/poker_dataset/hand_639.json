@@ -1,0 +1,111 @@
+{
+    "date": "2016/9/5 12:56:47",
+    "game_id": "720273567",
+    "variant": "PRR",
+    "table_name": "Pegacorn",
+    "type_game": "short",
+    "button_seat": 4,
+    "players": [
+        "St3p04ka",
+        "IlxxxlI",
+        "SheppyPOO!!"
+    ],
+    "players_seats": [
+        2,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        539.67,
+        134.7,
+        601.19
+    ],
+    "player_small_blind": "SheppyPOO!!",
+    "small_blind": 3.0,
+    "player_big_blind": "St3p04ka",
+    "big_blind": 6.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ah",
+        "7s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qh",
+            "Ad",
+            "9h"
+        ],
+        "turn": [
+            "2s"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "SheppyPOO!!",
+                "St3p04ka"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                12.0,
+                null,
+                6.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "St3p04ka",
+                "IlxxxlI",
+                "St3p04ka"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                6.0,
+                6.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "St3p04ka",
+                "IlxxxlI",
+                "St3p04ka"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                19.32,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        521.67,
+        155.35,
+        598.19
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "date": "2016/9/15 11:59:18",
+    "game_id": "728105522",
+    "variant": "PRR",
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 5,
+    "players": [
+        "Anastasia31",
+        "miscusee",
+        "TuxoH",
+        "allinoh",
+        "NoCortosPermite",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        211.85,
+        287.4,
+        200.0,
+        122.85,
+        335.84,
+        154.4
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 2.0,
+    "player_big_blind": "miscusee",
+    "big_blind": 4.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5c",
+        "Qs"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "4c",
+            "8d",
+            "8s"
+        ],
+        "turn": [
+            "Ac"
+        ],
+        "river": [
+            "5d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "TuxoH",
+                "allinoh",
+                "NoCortosPermite",
+                "IlxxxlI",
+                "miscusee"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                8.0,
+                null,
+                null,
+                4.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "miscusee",
+                "allinoh",
+                "miscusee"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                10.0,
+                10.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "miscusee",
+                "allinoh",
+                "miscusee"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                25.0,
+                25.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "miscusee",
+                "allinoh"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "8h Ks",
+        null,
+        "3h 3c",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        211.85,
+        331.54999999999995,
+        200.0,
+        79.85,
+        335.84,
+        152.4
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "date": "2016/9/5 12:27:59",
+    "game_id": "720265834",
+    "variant": "PRR",
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 4,
+    "players": [
+        "IlxxxlI",
+        "whitnez33",
+        "bigrpk22",
+        "RapaNui",
+        "St3p04ka"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        142.28,
+        403.29,
+        171.8,
+        235.7,
+        80.0
+    ],
+    "player_small_blind": "RapaNui",
+    "small_blind": 2.0,
+    "player_big_blind": "St3p04ka",
+    "big_blind": 4.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10h",
+        "6s"
+    ],
+    "dealed_cards": {
+        "flop": [],
+        "turn": [],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "whitnez33",
+                "bigrpk22",
+                "RapaNui",
+                "St3p04ka",
+                "bigrpk22"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "RAISE",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                9.2,
+                null,
+                74.0,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        142.28,
+        403.29,
+        162.60000000000002,
+        233.7,
+        91.19999999999999
+    ]
+}

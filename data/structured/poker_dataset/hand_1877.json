@@ -1,0 +1,146 @@
+{
+    "date": "2016/9/18 8:21:41",
+    "game_id": "730219242",
+    "variant": "PRR",
+    "table_name": "Kraken-6",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "iDawg",
+        "hotandcold=hold",
+        "IlxxxlI",
+        "gosu36484",
+        "BlitzWaut",
+        "Pimpika"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        133.16,
+        102.27,
+        45.5,
+        38.18,
+        100.0,
+        130.21
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.5,
+    "player_big_blind": "gosu36484",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9h",
+        "Kc"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "3h",
+            "8h",
+            "5c"
+        ],
+        "turn": [
+            "8d"
+        ],
+        "river": [
+            "9s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "BlitzWaut",
+                "Pimpika",
+                "iDawg",
+                "hotandcold=hold",
+                "IlxxxlI",
+                "gosu36484",
+                "iDawg"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                3.0,
+                9.0,
+                null,
+                null,
+                6.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "iDawg",
+                "hotandcold=hold",
+                "iDawg"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                9.26,
+                9.26
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "iDawg",
+                "hotandcold=hold"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "iDawg",
+                "hotandcold=hold"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                24.08,
+                24.08
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "10c 10h",
+        "Ad Ah",
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        90.82,
+        143.11,
+        45.0,
+        37.18,
+        100.0,
+        130.21
+    ]
+}

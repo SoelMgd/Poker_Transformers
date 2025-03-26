@@ -1,0 +1,143 @@
+{
+    "date": "2016/9/18 7:24:8",
+    "game_id": "730182090",
+    "variant": "PRR",
+    "table_name": "Kraken-6",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "iDawg",
+        "jackson319",
+        "IlxxxlI",
+        "Gargantuatua",
+        "BlitzWaut",
+        "Pimpika"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        144.91,
+        89.23,
+        45.62,
+        100.0,
+        128.21,
+        47.34
+    ],
+    "player_small_blind": "Gargantuatua",
+    "small_blind": 0.5,
+    "player_big_blind": "BlitzWaut",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Kc",
+        "2s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8c",
+            "Kd",
+            "Qd"
+        ],
+        "turn": [
+            "Ad"
+        ],
+        "river": [
+            "7h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Pimpika",
+                "iDawg",
+                "jackson319",
+                "IlxxxlI",
+                "Gargantuatua",
+                "BlitzWaut",
+                "Gargantuatua"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                2.0,
+                6.0,
+                4.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Gargantuatua",
+                "BlitzWaut"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Gargantuatua",
+                "BlitzWaut"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                6.65,
+                6.65
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Gargantuatua",
+                "BlitzWaut"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                20.0,
+                20.0
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        "10d Jd",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        144.91,
+        89.23,
+        45.62,
+        130.64999999999998,
+        94.56,
+        47.34
+    ]
+}

@@ -1,0 +1,148 @@
+{
+    "date": "2016/9/18 8:53:52",
+    "game_id": "730238474",
+    "variant": "PRR",
+    "table_name": "Karkadann-3",
+    "type_game": "Hold'em",
+    "button_seat": 9,
+    "players": [
+        "BlitzWaut",
+        "VegetablesArentYummy",
+        "Pablo46",
+        "BullsNationBitch",
+        "Pimpika",
+        "gosu36484",
+        "Frisconar",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        9
+    ],
+    "starting_stacks": [
+        101.0,
+        100.0,
+        101.5,
+        47.28,
+        84.81,
+        41.5,
+        80.16,
+        49.69
+    ],
+    "player_small_blind": "BlitzWaut",
+    "small_blind": 0.5,
+    "player_big_blind": "VegetablesArentYummy",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Qh",
+        "Ac"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "2c",
+            "8c",
+            "Js"
+        ],
+        "turn": [
+            "Ah"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Pablo46",
+                "BullsNationBitch",
+                "Pimpika",
+                "gosu36484",
+                "Frisconar",
+                "IlxxxlI",
+                "BlitzWaut",
+                "VegetablesArentYummy",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                2.0,
+                7.5,
+                null,
+                6.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "BlitzWaut",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                9.0,
+                9.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "BlitzWaut",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "ALLIN",
+                "ALLIN"
+            ],
+            "values": [
+                84.0,
+                32.69
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        "Kc Ad",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Qh Ac"
+    ],
+    "finishing_stack": [
+        148.69,
+        99.0,
+        101.5,
+        47.28,
+        84.81,
+        41.5,
+        80.16,
+        0.0
+    ]
+}

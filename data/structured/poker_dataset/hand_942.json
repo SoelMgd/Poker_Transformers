@@ -1,0 +1,135 @@
+{
+    "date": "2016/9/6 1:0:29",
+    "game_id": "720658957",
+    "variant": "PRR",
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 2,
+    "players": [
+        "gfclbv",
+        "cacho22",
+        "The_Toast",
+        "IlxxxlI",
+        "VegetablesArentYummy",
+        "Leatherass9"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        166.0,
+        77.25,
+        200.0,
+        134.49,
+        200.0,
+        491.95
+    ],
+    "player_small_blind": "The_Toast",
+    "small_blind": 2.0,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 4.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9c",
+        "Ks"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8c",
+            "Jc",
+            "9h"
+        ],
+        "turn": [
+            "6s"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "VegetablesArentYummy",
+                "Leatherass9",
+                "gfclbv",
+                "cacho22",
+                "The_Toast",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                8.0,
+                8.0,
+                null,
+                4.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "gfclbv",
+                "cacho22",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                16.0,
+                16.0,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "gfclbv",
+                "cacho22"
+            ],
+            "actions": [
+                "BET",
+                "ALLIN"
+            ],
+            "values": [
+                56.0,
+                53.25
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        "Kh Kc",
+        "Js Qh",
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        251.65,
+        0.0,
+        198.0,
+        126.49000000000001,
+        200.0,
+        491.95
+    ]
+}

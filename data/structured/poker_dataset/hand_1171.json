@@ -1,0 +1,146 @@
+{
+    "date": "2016/9/15 11:47:22",
+    "game_id": "728102568",
+    "variant": "PRR",
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 6,
+    "players": [
+        "Anastasia31",
+        "miscusee",
+        "TuxoH",
+        "allinoh",
+        "NoCortosPermite",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        200.0,
+        298.4,
+        235.75,
+        58.0,
+        306.61,
+        80.0
+    ],
+    "player_small_blind": "Anastasia31",
+    "small_blind": 2.0,
+    "player_big_blind": "miscusee",
+    "big_blind": 4.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "7h",
+        "4d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "5h",
+            "7c",
+            "Qc"
+        ],
+        "turn": [
+            "Ks"
+        ],
+        "river": [
+            "Kd"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "TuxoH",
+                "allinoh",
+                "NoCortosPermite",
+                "IlxxxlI",
+                "Anastasia31",
+                "miscusee"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                9.0,
+                null,
+                7.0,
+                5.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Anastasia31",
+                "miscusee",
+                "NoCortosPermite"
+            ],
+            "actions": [
+                "BET",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                17.83,
+                null,
+                17.83
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Anastasia31",
+                "NoCortosPermite"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Anastasia31",
+                "NoCortosPermite",
+                "Anastasia31"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                36.0,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        173.17000000000002,
+        289.4,
+        235.75,
+        58.0,
+        341.84000000000003,
+        80.0
+    ]
+}

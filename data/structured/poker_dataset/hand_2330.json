@@ -1,0 +1,146 @@
+{
+    "date": "2016/9/18 9:34:20",
+    "game_id": "730259040",
+    "variant": "PRR",
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 2,
+    "players": [
+        "Pureprofit4",
+        "IlxxxlI",
+        "BoomSauce222",
+        "bb26bb",
+        "VegetablesArentYummy",
+        "stevedavebob"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        219.59,
+        80.0,
+        265.65,
+        446.44,
+        623.12,
+        203.91
+    ],
+    "player_small_blind": "BoomSauce222",
+    "small_blind": 2.0,
+    "player_big_blind": "bb26bb",
+    "big_blind": 4.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6d",
+        "10s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "3d",
+            "8c",
+            "Qd"
+        ],
+        "turn": [
+            "9d"
+        ],
+        "river": [
+            "5s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "VegetablesArentYummy",
+                "stevedavebob",
+                "Pureprofit4",
+                "IlxxxlI",
+                "BoomSauce222",
+                "bb26bb"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                6.0,
+                4.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "BoomSauce222",
+                "bb26bb",
+                "BoomSauce222"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                5.28,
+                5.28
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "BoomSauce222",
+                "bb26bb",
+                "BoomSauce222"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                13.15,
+                13.15
+            ]
+        },
+        "post-river": {
+            "players": [
+                "BoomSauce222",
+                "bb26bb"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        "Qc 7c",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        219.59,
+        80.0,
+        239.21999999999997,
+        472.37,
+        623.12,
+        203.91
+    ]
+}

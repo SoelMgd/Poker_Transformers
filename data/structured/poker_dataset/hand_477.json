@@ -1,0 +1,140 @@
+{
+    "date": "2016/9/5 12:18:46",
+    "game_id": "720263169",
+    "variant": "PRR",
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 4,
+    "players": [
+        "follower1",
+        "IlxxxlI",
+        "whitnez33",
+        "bigrpk22",
+        "RapaNui",
+        "St3p04ka"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        206.0,
+        152.35,
+        320.17,
+        256.35,
+        213.7,
+        80.0
+    ],
+    "player_small_blind": "RapaNui",
+    "small_blind": 2.0,
+    "player_big_blind": "St3p04ka",
+    "big_blind": 4.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "3s",
+        "7h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8d",
+            "6s",
+            "Qh"
+        ],
+        "turn": [
+            "As"
+        ],
+        "river": [
+            "3c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "follower1",
+                "IlxxxlI",
+                "whitnez33",
+                "bigrpk22",
+                "RapaNui",
+                "St3p04ka"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                12.0,
+                null,
+                12.0,
+                null,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "follower1",
+                "whitnez33"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "follower1",
+                "whitnez33"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                24.0,
+                24.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "follower1",
+                "whitnez33"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                60.0,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        247.25,
+        152.35,
+        284.17,
+        256.35,
+        211.7,
+        76.0
+    ]
+}

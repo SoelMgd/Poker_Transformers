@@ -1,0 +1,135 @@
+{
+    "date": "2016/9/5 11:43:9",
+    "game_id": "720251785",
+    "variant": "PRR",
+    "table_name": "Pegasus",
+    "type_game": "Short",
+    "button_seat": 4,
+    "players": [
+        "SheppyPOO!!",
+        "IlxxxlI",
+        "graphicup",
+        "Jimisdumb",
+        "follower1"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        300.0,
+        153.35,
+        240.0,
+        194.0,
+        358.05
+    ],
+    "player_small_blind": "Jimisdumb",
+    "small_blind": 3.0,
+    "player_big_blind": "follower1",
+    "big_blind": 6.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5h",
+        "10d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10h",
+            "Kd",
+            "9h"
+        ],
+        "turn": [
+            "Qc"
+        ],
+        "river": [
+            "Jc"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "SheppyPOO!!",
+                "IlxxxlI",
+                "graphicup",
+                "Jimisdumb",
+                "follower1"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                9.0,
+                6.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Jimisdumb",
+                "follower1"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                11.9,
+                11.9
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Jimisdumb",
+                "follower1"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                15.78,
+                15.78
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Jimisdumb",
+                "follower1",
+                "Jimisdumb"
+            ],
+            "actions": [
+                "CHECK",
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                318.37,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        300.0,
+        153.35,
+        240.0,
+        154.32,
+        396.98
+    ]
+}

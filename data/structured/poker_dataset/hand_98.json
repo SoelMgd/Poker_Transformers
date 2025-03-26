@@ -1,0 +1,122 @@
+{
+    "date": "2016/9/4 9:47:7",
+    "game_id": "719277451",
+    "variant": "PRR",
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 2,
+    "players": [
+        "IlxxxlI",
+        "letsgooooo",
+        "bet2000",
+        "ConstanceHarm"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        114.7,
+        83.85,
+        404.55,
+        200.0
+    ],
+    "player_small_blind": "bet2000",
+    "small_blind": 2.0,
+    "player_big_blind": "ConstanceHarm",
+    "big_blind": 4.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ad",
+        "5c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Ah",
+            "Qc",
+            "9s"
+        ],
+        "turn": [
+            "10h"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "letsgooooo",
+                "bet2000",
+                "ConstanceHarm"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                8.0,
+                6.0,
+                4.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "bet2000",
+                "ConstanceHarm",
+                "letsgooooo",
+                "bet2000",
+                "ConstanceHarm"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                13.22,
+                13.22,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "bet2000",
+                "letsgooooo"
+            ],
+            "actions": [
+                "BET",
+                "ALLIN"
+            ],
+            "values": [
+                66.42,
+                62.63
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "5s Ac",
+        "9c 10c",
+        null
+    ],
+    "finishing_stack": [
+        114.7,
+        0.0,
+        494.65000000000003,
+        192.0
+    ]
+}

@@ -1,0 +1,148 @@
+{
+    "date": "2016/9/18 8:31:32",
+    "game_id": "730225314",
+    "variant": "PRR",
+    "table_name": "Karkadann-4",
+    "type_game": "Hold'em",
+    "button_seat": 7,
+    "players": [
+        "VegetablesArentYummy",
+        "Pimpika",
+        "IlxxxlI",
+        "Spew Diamond Phillips",
+        "Frisconar",
+        "FirstClan",
+        "brainvape",
+        "BlitzWaut"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        7,
+        8,
+        9
+    ],
+    "starting_stacks": [
+        100.0,
+        197.7,
+        44.08,
+        121.97,
+        38.5,
+        102.3,
+        10.34,
+        237.58
+    ],
+    "player_small_blind": "brainvape",
+    "small_blind": 0.5,
+    "player_big_blind": "BlitzWaut",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ah",
+        "5s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6s",
+            "Ac",
+            "As"
+        ],
+        "turn": [
+            "8h"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "VegetablesArentYummy",
+                "Pimpika",
+                "IlxxxlI",
+                "Spew Diamond Phillips",
+                "Frisconar",
+                "FirstClan",
+                "brainvape",
+                "BlitzWaut"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                2.0,
+                1.5,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "brainvape",
+                "FirstClan"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "brainvape",
+                "FirstClan",
+                "brainvape"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                2.37,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        100.0,
+        197.7,
+        44.08,
+        121.97,
+        38.5,
+        105.05,
+        8.34,
+        236.58
+    ]
+}

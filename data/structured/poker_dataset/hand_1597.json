@@ -1,0 +1,97 @@
+{
+    "date": "2016/9/18 7:43:34",
+    "game_id": "730195605",
+    "variant": "PRR",
+    "table_name": "Kraken-6",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "iDawg",
+        "jackson319",
+        "IlxxxlI",
+        "BlitzWaut",
+        "Pimpika"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        113.41,
+        61.62,
+        40.12,
+        106.43,
+        135.71
+    ],
+    "player_small_blind": "Pimpika",
+    "small_blind": 0.5,
+    "player_big_blind": "iDawg",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Qs",
+        "9h"
+    ],
+    "dealed_cards": {
+        "flop": [],
+        "turn": [],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "jackson319",
+                "IlxxxlI",
+                "BlitzWaut",
+                "Pimpika",
+                "iDawg"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                3.0,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        112.41,
+        61.62,
+        40.12,
+        107.93,
+        135.21
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "date": "2016/9/4 10:9:37",
+    "game_id": "719287714",
+    "variant": "PRR",
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 2,
+    "players": [
+        "IlxxxlI",
+        "Pureprofit4",
+        "SheppyPOO!!",
+        "bet2000"
+    ],
+    "players_seats": [
+        2,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        169.22,
+        558.36,
+        200.0,
+        603.4
+    ],
+    "player_small_blind": "Pureprofit4",
+    "small_blind": 2.0,
+    "player_big_blind": "SheppyPOO!!",
+    "big_blind": 4.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Qd",
+        "10h"
+    ],
+    "dealed_cards": {
+        "flop": [],
+        "turn": [],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "bet2000",
+                "IlxxxlI",
+                "Pureprofit4",
+                "SheppyPOO!!"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                8.0,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        175.22,
+        556.36,
+        196.0,
+        603.4
+    ]
+}

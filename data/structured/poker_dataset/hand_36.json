@@ -1,0 +1,108 @@
+{
+    "date": "2016/9/4 9:30:4",
+    "game_id": "719269052",
+    "variant": "PRR",
+    "table_name": "Pegasus",
+    "type_game": "Short",
+    "button_seat": 4,
+    "players": [
+        "bet2000",
+        "OrionMaster",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        2,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        300.71,
+        93.0,
+        136.8
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 3.0,
+    "player_big_blind": "OrionMaster",
+    "big_blind": 6.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9s",
+        "Jc"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10d",
+            "3h",
+            "3s"
+        ],
+        "turn": [
+            "2d"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "OrionMaster",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CALL",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                3.0,
+                6.0,
+                6.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "OrionMaster"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                6.0,
+                6.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "OrionMaster",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                11.88,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        300.71,
+        110.65,
+        118.80000000000001
+    ]
+}

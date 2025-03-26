@@ -1,0 +1,97 @@
+{
+    "date": "2016/9/5 12:50:48",
+    "game_id": "720272055",
+    "variant": "PRR",
+    "table_name": "Pegacorn",
+    "type_game": "short",
+    "button_seat": 2,
+    "players": [
+        "RapaNui",
+        "St3p04ka",
+        "IlxxxlI",
+        "SheppyPOO!!",
+        "TheManiac89"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        5,
+        9
+    ],
+    "starting_stacks": [
+        659.84,
+        462.98,
+        120.87,
+        631.98,
+        209.21
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 3.0,
+    "player_big_blind": "SheppyPOO!!",
+    "big_blind": 6.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6h",
+        "2d"
+    ],
+    "dealed_cards": {
+        "flop": [],
+        "turn": [],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "TheManiac89",
+                "RapaNui",
+                "St3p04ka",
+                "IlxxxlI",
+                "SheppyPOO!!"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                15.0,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        659.84,
+        471.98,
+        117.87,
+        625.98,
+        209.21
+    ]
+}

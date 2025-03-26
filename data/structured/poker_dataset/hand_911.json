@@ -1,0 +1,89 @@
+{
+    "date": "2016/9/6 0:54:38",
+    "game_id": "720655301",
+    "variant": "PRR",
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 4,
+    "players": [
+        "cuzyagood",
+        "Leatherass9",
+        "VegetablesArentYummy",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4
+    ],
+    "starting_stacks": [
+        220.6,
+        303.0,
+        486.21,
+        156.99
+    ],
+    "player_small_blind": "cuzyagood",
+    "small_blind": 2.0,
+    "player_big_blind": "Leatherass9",
+    "big_blind": 4.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "3c",
+        "Kh"
+    ],
+    "dealed_cards": {
+        "flop": [],
+        "turn": [],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "VegetablesArentYummy",
+                "IlxxxlI",
+                "cuzyagood",
+                "Leatherass9"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                10.0,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        224.6,
+        299.0,
+        486.21,
+        156.99
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "date": "2016/9/5 12:44:25",
+    "game_id": "720270297",
+    "variant": "PRR",
+    "table_name": "Longana",
+    "type_game": "Short",
+    "button_seat": 2,
+    "players": [
+        "St3p04ka",
+        "IlxxxlI",
+        "pokerhawk333",
+        "gust",
+        "jtee95",
+        "PANDAisEVIL"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5,
+        7,
+        8
+    ],
+    "starting_stacks": [
+        96.54,
+        42.57,
+        49.28,
+        80.0,
+        239.1,
+        125.02
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 1.0,
+    "player_big_blind": "pokerhawk333",
+    "big_blind": 2.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "7h",
+        "4h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10c",
+            "Qc",
+            "10d"
+        ],
+        "turn": [],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "gust",
+                "jtee95",
+                "PANDAisEVIL",
+                "St3p04ka",
+                "IlxxxlI",
+                "pokerhawk333"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                5.0,
+                null,
+                null,
+                3.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "pokerhawk333",
+                "PANDAisEVIL",
+                "pokerhawk333"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                5.22,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        96.54,
+        41.57,
+        44.28,
+        80.0,
+        239.1,
+        130.47
+    ]
+}

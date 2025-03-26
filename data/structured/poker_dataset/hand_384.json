@@ -1,0 +1,149 @@
+{
+    "date": "2016/9/5 11:57:50",
+    "game_id": "720256726",
+    "variant": "PRR",
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 1,
+    "players": [
+        "graphicup",
+        "lars76",
+        "IlxxxlI",
+        "ShtrafBat",
+        "follower1",
+        "RapaNui"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        202.48,
+        134.15,
+        118.75,
+        94.65,
+        323.46,
+        200.0
+    ],
+    "player_small_blind": "lars76",
+    "small_blind": 2.0,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 4.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Jc",
+        "6c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10s",
+            "9h",
+            "3s"
+        ],
+        "turn": [
+            "Kd"
+        ],
+        "river": [
+            "4h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "ShtrafBat",
+                "follower1",
+                "RapaNui",
+                "graphicup",
+                "lars76",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                8.4,
+                6.4,
+                4.4
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "lars76",
+                "IlxxxlI",
+                "graphicup"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "lars76",
+                "IlxxxlI",
+                "graphicup"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "lars76",
+                "IlxxxlI",
+                "graphicup"
+            ],
+            "actions": [
+                "BET",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                11.0,
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        194.07999999999998,
+        150.7,
+        110.35,
+        94.65,
+        323.46,
+        200.0
+    ]
+}

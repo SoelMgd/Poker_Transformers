@@ -1,0 +1,124 @@
+{
+    "date": "2016/9/18 9:28:41",
+    "game_id": "730256269",
+    "variant": "PRR",
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 2,
+    "players": [
+        "winchy21",
+        "VegetablesArentYummy",
+        "flyzlcomb07",
+        "Pureprofit4",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        90.59,
+        305.94,
+        580.55,
+        215.75,
+        80.0
+    ],
+    "player_small_blind": "flyzlcomb07",
+    "small_blind": 2.0,
+    "player_big_blind": "Pureprofit4",
+    "big_blind": 4.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Js",
+        "2h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Ks",
+            "Kh",
+            "6s"
+        ],
+        "turn": [
+            "Ah"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "winchy21",
+                "VegetablesArentYummy",
+                "flyzlcomb07",
+                "Pureprofit4"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                8.0,
+                6.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "flyzlcomb07",
+                "Pureprofit4"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                9.9,
+                9.9
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "flyzlcomb07",
+                "Pureprofit4",
+                "flyzlcomb07"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                13.15,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        90.59,
+        305.94,
+        560.65,
+        235.3,
+        80.0
+    ]
+}

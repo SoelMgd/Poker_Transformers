@@ -1,0 +1,124 @@
+{
+    "date": "2016/9/6 0:33:35",
+    "game_id": "720637399",
+    "variant": "PRR",
+    "table_name": "Monopod",
+    "type_game": "Short",
+    "button_seat": 4,
+    "players": [
+        "HookahBOSS",
+        "VegetablesArentYummy",
+        "IlxxxlI",
+        "Iia007",
+        "Leatherass9"
+    ],
+    "players_seats": [
+        1,
+        4,
+        6,
+        7,
+        8
+    ],
+    "starting_stacks": [
+        185.75,
+        225.4,
+        80.0,
+        281.03,
+        413.0
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 2.0,
+    "player_big_blind": "Iia007",
+    "big_blind": 4.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9s",
+        "6s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "5d",
+            "Ks",
+            "Kc"
+        ],
+        "turn": [
+            "Qc"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Leatherass9",
+                "HookahBOSS",
+                "VegetablesArentYummy",
+                "IlxxxlI",
+                "Iia007"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                6.0,
+                4.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "Iia007"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                7.92,
+                7.92
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "Iia007",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                10.51,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        185.75,
+        225.4,
+        64.08,
+        296.65,
+        413.0
+    ]
+}

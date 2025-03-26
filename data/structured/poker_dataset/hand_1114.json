@@ -1,0 +1,138 @@
+{
+    "date": "2016/9/13 13:38:34",
+    "game_id": "726615401",
+    "variant": "PRR",
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 3,
+    "players": [
+        "jcirone29",
+        "SheppyPOO!!",
+        "IlxxxlI",
+        "xx_HaZ",
+        "miscusee"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        489.79,
+        200.0,
+        93.3,
+        241.68,
+        251.05
+    ],
+    "player_small_blind": "xx_HaZ",
+    "small_blind": 2.0,
+    "player_big_blind": "miscusee",
+    "big_blind": 4.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8h",
+        "5c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9c",
+            "Qs",
+            "5h"
+        ],
+        "turn": [
+            "4h"
+        ],
+        "river": [
+            "4s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "jcirone29",
+                "SheppyPOO!!",
+                "IlxxxlI",
+                "xx_HaZ",
+                "miscusee"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                8.0,
+                null,
+                null,
+                null,
+                4.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "miscusee",
+                "jcirone29",
+                "miscusee"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                9.68,
+                9.68
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "miscusee",
+                "jcirone29"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "miscusee",
+                "jcirone29",
+                "miscusee"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "FOLD"
+            ],
+            "values": [
+                52.0,
+                156.0,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        560.07,
+        200.0,
+        93.3,
+        239.68,
+        181.37
+    ]
+}

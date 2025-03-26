@@ -1,0 +1,84 @@
+{
+    "date": "2016/9/15 12:13:40",
+    "game_id": "728109100",
+    "variant": "PRR",
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 3,
+    "players": [
+        "xx_HaZ",
+        "TuxoH",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        2,
+        3,
+        6
+    ],
+    "starting_stacks": [
+        211.8,
+        278.4,
+        216.9
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 2.0,
+    "player_big_blind": "xx_HaZ",
+    "big_blind": 4.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5s",
+        "6d"
+    ],
+    "dealed_cards": {
+        "flop": [],
+        "turn": [],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "TuxoH",
+                "IlxxxlI",
+                "xx_HaZ",
+                "TuxoH"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "RAISE",
+                "FOLD"
+            ],
+            "values": [
+                8.0,
+                null,
+                28.0,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        221.8,
+        270.4,
+        214.9
+    ]
+}

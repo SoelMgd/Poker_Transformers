@@ -1,0 +1,105 @@
+{
+    "date": "2016/9/5 12:10:56",
+    "game_id": "720260745",
+    "variant": "PRR",
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 3,
+    "players": [
+        "bigrpk22",
+        "lars76",
+        "IlxxxlI",
+        "ShtrafBat",
+        "follower1",
+        "RapaNui"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        160.0,
+        179.49,
+        80.0,
+        92.82,
+        345.48,
+        231.75
+    ],
+    "player_small_blind": "ShtrafBat",
+    "small_blind": 2.0,
+    "player_big_blind": "follower1",
+    "big_blind": 4.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Qh",
+        "Jc"
+    ],
+    "dealed_cards": {
+        "flop": [],
+        "turn": [],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "RapaNui",
+                "bigrpk22",
+                "lars76",
+                "IlxxxlI",
+                "ShtrafBat",
+                "follower1"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                8.0,
+                null,
+                null,
+                null,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        160.0,
+        179.49,
+        80.0,
+        90.82,
+        341.48,
+        237.75
+    ]
+}

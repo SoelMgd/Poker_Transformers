@@ -1,0 +1,162 @@
+{
+    "date": "2016/9/18 7:51:47",
+    "game_id": "730200941",
+    "variant": "PRR",
+    "table_name": "Karkadann",
+    "type_game": "Hold'em",
+    "button_seat": 8,
+    "players": [
+        "IlxxxlI",
+        "0nlyDaNuts",
+        "VegetablesArentYummy",
+        "gosu36484",
+        "Pimpika",
+        "BlitzWaut",
+        "Immortal.",
+        "dartx",
+        "Chicubs2016"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "starting_stacks": [
+        78.69,
+        110.96,
+        100.0,
+        38.5,
+        50.59,
+        126.54,
+        100.0,
+        43.76,
+        62.08
+    ],
+    "player_small_blind": "Chicubs2016",
+    "small_blind": 0.5,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5h",
+        "Ks"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Kc",
+            "Ad",
+            "9s"
+        ],
+        "turn": [
+            "2c"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "0nlyDaNuts",
+                "VegetablesArentYummy",
+                "gosu36484",
+                "Pimpika",
+                "BlitzWaut",
+                "Immortal.",
+                "dartx",
+                "Chicubs2016",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                3.0,
+                2.5,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Chicubs2016",
+                "dartx",
+                "Chicubs2016"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                3.32,
+                3.32
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Chicubs2016",
+                "dartx",
+                "Chicubs2016",
+                "dartx"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                6.48,
+                55.76,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        77.69,
+        110.96,
+        100.0,
+        38.5,
+        50.59,
+        126.54,
+        100.0,
+        30.959999999999997,
+        74.55
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "date": "2016/9/4 10:10:8",
+    "game_id": "719287969",
+    "variant": "PRR",
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 4,
+    "players": [
+        "IlxxxlI",
+        "Pureprofit4",
+        "SheppyPOO!!",
+        "bet2000"
+    ],
+    "players_seats": [
+        2,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        175.22,
+        556.36,
+        200.0,
+        603.4
+    ],
+    "player_small_blind": "SheppyPOO!!",
+    "small_blind": 2.0,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 4.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8d",
+        "4d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6h",
+            "8s",
+            "Qs"
+        ],
+        "turn": [
+            "10c"
+        ],
+        "river": [
+            "Qc"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Pureprofit4",
+                "SheppyPOO!!",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                8.0,
+                null,
+                4.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "Pureprofit4",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                11.9,
+                11.9
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "Pureprofit4"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                7.0,
+                7.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "Pureprofit4"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "8d 4d",
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        203.57,
+        529.46,
+        198.0,
+        603.4
+    ]
+}

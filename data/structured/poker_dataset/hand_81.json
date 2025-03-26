@@ -1,0 +1,118 @@
+{
+    "date": "2016/9/4 9:42:44",
+    "game_id": "719275299",
+    "variant": "PRR",
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 6,
+    "players": [
+        "SheppyPOO!!",
+        "IlxxxlI",
+        "Kak_Ded_Y4il",
+        "VegetablesArentYummy"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        6
+    ],
+    "starting_stacks": [
+        280.4,
+        98.0,
+        200.0,
+        200.0
+    ],
+    "player_small_blind": "SheppyPOO!!",
+    "small_blind": 2.0,
+    "player_big_blind": "VegetablesArentYummy",
+    "big_blind": 4.0,
+    "player": "IlxxxlI",
+    "cards_player": [],
+    "dealed_cards": {
+        "flop": [
+            "4d",
+            "9d",
+            "9s"
+        ],
+        "turn": [
+            "2s"
+        ],
+        "river": [
+            "5d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "SheppyPOO!!",
+                "VegetablesArentYummy"
+            ],
+            "actions": [
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                6.0,
+                4.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "SheppyPOO!!",
+                "VegetablesArentYummy",
+                "SheppyPOO!!"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                7.92,
+                7.92
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "SheppyPOO!!",
+                "VegetablesArentYummy"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "SheppyPOO!!",
+                "VegetablesArentYummy"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        "Ad 2h"
+    ],
+    "finishing_stack": [
+        264.47999999999996,
+        98.0,
+        200.0,
+        215.62
+    ]
+}

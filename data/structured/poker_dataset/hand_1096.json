@@ -1,0 +1,92 @@
+{
+    "date": "2016/9/13 13:30:42",
+    "game_id": "726614073",
+    "variant": "PRR",
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 2,
+    "players": [
+        "SheppyPOO!!",
+        "IlxxxlI",
+        "xx_HaZ",
+        "T0ny Adams"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        206.0,
+        105.3,
+        247.98,
+        261.55
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 2.0,
+    "player_big_blind": "xx_HaZ",
+    "big_blind": 4.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8d",
+        "3h"
+    ],
+    "dealed_cards": {
+        "flop": [],
+        "turn": [],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "T0ny Adams",
+                "SheppyPOO!!",
+                "IlxxxlI",
+                "xx_HaZ",
+                "T0ny Adams"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD"
+            ],
+            "values": [
+                8.0,
+                null,
+                null,
+                28.0,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        206.0,
+        103.3,
+        257.98,
+        253.55
+    ]
+}

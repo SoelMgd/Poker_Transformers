@@ -1,0 +1,140 @@
+{
+    "date": "2016/9/18 9:1:26",
+    "game_id": "730242242",
+    "variant": "PRR",
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 1,
+    "players": [
+        "winchy21",
+        "VegetablesArentYummy",
+        "flyzlcomb07",
+        "Pureprofit4",
+        "graphicup",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        225.89,
+        335.87,
+        414.66,
+        182.14,
+        160.0,
+        80.0
+    ],
+    "player_small_blind": "VegetablesArentYummy",
+    "small_blind": 2.0,
+    "player_big_blind": "flyzlcomb07",
+    "big_blind": 4.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "3h",
+        "Kh"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10s",
+            "Jh",
+            "5c"
+        ],
+        "turn": [
+            "4c"
+        ],
+        "river": [
+            "3d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Pureprofit4",
+                "graphicup",
+                "IlxxxlI",
+                "winchy21",
+                "VegetablesArentYummy",
+                "flyzlcomb07"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                10.0,
+                null,
+                10.0,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "graphicup",
+                "winchy21"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "graphicup",
+                "winchy21"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "graphicup",
+                "winchy21"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        "10h Qd",
+        null
+    ],
+    "finishing_stack": [
+        215.89,
+        333.87,
+        410.66,
+        182.14,
+        175.75,
+        80.0
+    ]
+}

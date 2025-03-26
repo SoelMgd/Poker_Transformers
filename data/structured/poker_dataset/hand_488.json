@@ -1,0 +1,144 @@
+{
+    "date": "2016/9/5 12:21:12",
+    "game_id": "720263934",
+    "variant": "PRR",
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 1,
+    "players": [
+        "bigrpk22",
+        "lars76",
+        "IlxxxlI",
+        "follower1",
+        "RapaNui"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        170.0,
+        339.98,
+        80.0,
+        322.7,
+        208.0
+    ],
+    "player_small_blind": "lars76",
+    "small_blind": 2.0,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 4.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "2s",
+        "Ad"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9c",
+            "10h",
+            "3s"
+        ],
+        "turn": [
+            "Kd"
+        ],
+        "river": [
+            "Ah"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "follower1",
+                "RapaNui",
+                "bigrpk22",
+                "lars76",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                8.0,
+                null,
+                6.0,
+                4.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "lars76",
+                "IlxxxlI",
+                "RapaNui"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "lars76",
+                "IlxxxlI",
+                "RapaNui"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "lars76",
+                "IlxxxlI",
+                "RapaNui",
+                "lars76"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                11.9,
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        170.0,
+        331.98,
+        95.8,
+        322.7,
+        200.0
+    ]
+}

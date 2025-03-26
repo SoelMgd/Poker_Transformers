@@ -1,0 +1,132 @@
+{
+    "date": "2016/9/18 9:58:32",
+    "game_id": "730270348",
+    "variant": "PRR",
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 6,
+    "players": [
+        "Bazuko",
+        "VegetablesArentYummy",
+        "Pureprofit4",
+        "hangiie",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        200.0,
+        313.28,
+        346.99,
+        173.8,
+        171.3
+    ],
+    "player_small_blind": "Bazuko",
+    "small_blind": 2.0,
+    "player_big_blind": "VegetablesArentYummy",
+    "big_blind": 4.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9s",
+        "2c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6d",
+            "7s",
+            "As"
+        ],
+        "turn": [
+            "5s"
+        ],
+        "river": [
+            "3s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Pureprofit4",
+                "hangiie",
+                "IlxxxlI",
+                "Bazuko",
+                "VegetablesArentYummy"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                10.0,
+                8.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Bazuko",
+                "VegetablesArentYummy"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                13.0,
+                13.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Bazuko",
+                "VegetablesArentYummy"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Bazuko",
+                "VegetablesArentYummy"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "Ah 10c",
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        175.0,
+        337.78,
+        346.99,
+        173.8,
+        171.3
+    ]
+}

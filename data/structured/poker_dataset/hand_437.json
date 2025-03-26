@@ -1,0 +1,110 @@
+{
+    "date": "2016/9/5 12:10:4",
+    "game_id": "720260484",
+    "variant": "PRR",
+    "table_name": "Pegasus",
+    "type_game": "Short",
+    "button_seat": 6,
+    "players": [
+        "GranatoBetano",
+        "IlxxxlI",
+        "follower1"
+    ],
+    "players_seats": [
+        1,
+        3,
+        6
+    ],
+    "starting_stacks": [
+        180.0,
+        120.0,
+        714.42
+    ],
+    "player_small_blind": "GranatoBetano",
+    "small_blind": 3.0,
+    "player_big_blind": "follower1",
+    "big_blind": 6.0,
+    "player": "IlxxxlI",
+    "cards_player": [],
+    "dealed_cards": {
+        "flop": [
+            "8c",
+            "4d",
+            "Jd"
+        ],
+        "turn": [
+            "8h"
+        ],
+        "river": [
+            "6s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "GranatoBetano",
+                "follower1"
+            ],
+            "actions": [
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                15.0,
+                12.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "GranatoBetano",
+                "follower1"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "GranatoBetano",
+                "follower1"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "GranatoBetano",
+                "follower1"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                17.82,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        197.65,
+        120.0,
+        696.42
+    ]
+}

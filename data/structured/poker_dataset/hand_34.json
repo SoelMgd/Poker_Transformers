@@ -1,0 +1,81 @@
+{
+    "date": "2016/9/4 9:29:2",
+    "game_id": "719268534",
+    "variant": "PRR",
+    "table_name": "Pegasus",
+    "type_game": "Short",
+    "button_seat": 6,
+    "players": [
+        "bet2000",
+        "OrionMaster",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        2,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        308.51,
+        102.0,
+        120.0
+    ],
+    "player_small_blind": "bet2000",
+    "small_blind": 3.0,
+    "player_big_blind": "OrionMaster",
+    "big_blind": 6.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4c",
+        "5s"
+    ],
+    "dealed_cards": {
+        "flop": [],
+        "turn": [],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "bet2000",
+                "OrionMaster"
+            ],
+            "actions": [
+                "FOLD",
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                305.51,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        314.51,
+        96.0,
+        120.0
+    ]
+}
